@@ -90,9 +90,6 @@ class HackerNews:
             pandas.set_option("colheader_justify", "center")
             dataframe = pandas.DataFrame([data])
             print("\n\n", dataframe, "\n\n")
-            # Write to CSV file
-            print(f"Writing results as CSV to file stories.csv")
-            dataframe.to_csv(path_or_buf="./stories.csv", index=False)
 
             # Write to a file
             self.to_json(data=results, filename=f"user-{id}")
@@ -117,10 +114,6 @@ class HackerNews:
             )
 
             print("\n\n", dataframe, "\n\n")
-
-            # Write to CSV file
-            print(f"Writing results as CSV to file stories.csv")
-            dataframe.to_csv(path_or_buf="./stories.csv", index=False)
 
             # Write to JSON file
             self.to_json(data=stories, filename="stories")

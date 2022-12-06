@@ -1,183 +1,201 @@
 [
     {
-        "ID": 33878209,
-        "Owner": "taauji",
+        "ID": 33886673,
+        "Owner": "calstephens",
         "Type": "story",
-        "Title": "Ask HN: How is the job search coming along for people who got laid off?",
-        "Body": "I am assuming the market must be saturated with people seeking tech jobs. Is it difficult to get interviews? How have you been since you got laid off?",
+        "Title": "Lottie 4.0 for iOS: new render engine with significant performance improvements",
+        "Body": null,
+        "URL": "https://medium.com/airbnb-engineering/announcing-lottie-4-0-for-ios-d4d226862a54",
+        "Created": 1670359053
+    },
+    {
+        "ID": 33882506,
+        "Owner": "sl-dolt",
+        "Type": "story",
+        "Title": "Open-source hospital price transparency",
+        "Body": null,
+        "URL": "https://www.dolthub.com/blog/2022-12-02-open-source-hospital-price-transparency/",
+        "Created": 1670343634
+    },
+    {
+        "ID": 33884403,
+        "Owner": "capableweb",
+        "Type": "story",
+        "Title": "Ledger Stax – Hardware wallet with eInk display for digital assets",
+        "Body": null,
+        "URL": "https://shop.ledger.com/pages/ledger-stax",
+        "Created": 1670349834
+    },
+    {
+        "ID": 33877838,
+        "Owner": "antirez",
+        "Type": "story",
+        "Title": "The cloudy layers of modern-day programming",
+        "Body": null,
+        "URL": "https://vickiboykis.com/2022/12/05/the-cloudy-layers-of-modern-day-programming/",
+        "Created": 1670323014
+    },
+    {
+        "ID": 33886709,
+        "Owner": "rubiquity",
+        "Type": "story",
+        "Title": "Faceting large result sets in PostgreSQL",
+        "Body": null,
+        "URL": "https://www.cybertec-postgresql.com/en/faceting-large-result-sets/",
+        "Created": 1670359242
+    },
+    {
+        "ID": 33882497,
+        "Owner": "kirillzubovsky",
+        "Type": "story",
+        "Title": "Show HN: Domain Name Search with AI",
+        "Body": "In my exploration of OpenAI, I just created a domain-name search that takes business description as an input, and generates interesting domain names for it. It then uses DNSimple API to check if .com is available.<p>In my view it is a much easier way to find a suitable domain, as the AI thinks of a much large pool of possible names than my own brain. SmartyNames found its own name, using the tool itself.<p>Hope you enjoy it! <a href=\"https:&#x2F;&#x2F;smartynames.com&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;smartynames.com&#x2F;</a>",
         "URL": null,
-        "Created": 1670326316
+        "Created": 1670343602
     },
     {
-        "ID": 33878216,
-        "Owner": "anonu",
-        "Type": "story",
-        "Title": "What in the Ethereum application ecosystem excites me",
-        "Body": null,
-        "URL": "https://vitalik.ca/general/2022/12/05/excited.html",
-        "Created": 1670326377
+        "ID": 33886973,
+        "Owner": "ahmedomar701",
+        "Type": "job",
+        "Title": "Odiggo (YC S21) Hardware Startup – Looking for Tech Co-Founder",
+        "Body": "We are on a mission to fundamentally transform the way humans interact with the world around them through an extended reality glasses, using the latest advancements in technology to improve the lives of people in ways that were previously unimaginable.<p>We are looking for a technical cofounder to join our hardware and software startup. The ideal candidate will have a strong background in both hardware and software development, and will be comfortable wearing many hats in a fast-paced, startup environment.<p>Responsibilities:<p>- Collaborate with the founding team to define and execute on the company&#x27;s technical vision and roadmap<p>- Lead the development of hardware and software products, including conducting market research, designing prototypes, and overseeing production and testing<p>- Manage and mentor a team of hardware and software engineers, providing guidance and support as needed\nWork closely with other departments, including sales, marketing, and operations, to ensure that technical goals align with business objectives<p>- Act as a technical advisor and thought leader, staying up-to-date with industry trends and emerging technologies<p>Find more here odiggo.io",
+        "URL": null,
+        "Created": 1670360460
     },
     {
-        "ID": 33876949,
-        "Owner": "pabs3",
+        "ID": 33882903,
+        "Owner": "ibobev",
         "Type": "story",
-        "Title": "Linux Certificate Authority root stores have a too simple view of 'trust'",
+        "Title": "Optimizing compilers reload vector constants needlessly",
         "Body": null,
-        "URL": "https://utcc.utoronto.ca/~cks/space/blog/linux/CARootStoreTrustProblem",
-        "Created": 1670313112
+        "URL": "https://lemire.me/blog/2022/12/06/optimizing-compilers-reload-vector-constants-needlessly/",
+        "Created": 1670344884
     },
     {
-        "ID": 33877510,
-        "Owner": "revskill",
+        "ID": 33884441,
+        "Owner": "zeraphy",
         "Type": "story",
-        "Title": "Haskell Lens Tutorial by Exercises",
+        "Title": "Apple announces ‘upgrade’ to App Store pricing, adding 700 new price points",
         "Body": null,
-        "URL": "https://williamyaoh.com/posts/2019-04-25-lens-exercises.html",
-        "Created": 1670319212
+        "URL": "https://appleworld.today/archives/101157",
+        "Created": 1670349963
+    },
+    {
+        "ID": 33885153,
+        "Owner": "Schiphol",
+        "Type": "story",
+        "Title": "I Taught ChatGPT to Invent a Language",
+        "Body": null,
+        "URL": "https://maximumeffort.substack.com/p/i-taught-chatgpt-to-invent-a-language",
+        "Created": 1670352781
+    },
+    {
+        "ID": 33885834,
+        "Owner": "mconbere",
+        "Type": "story",
+        "Title": "RadTrike Electric Tricycle",
+        "Body": null,
+        "URL": "https://www.radpowerbikes.com/products/radtrike-electric-tricycle",
+        "Created": 1670355606
+    },
+    {
+        "ID": 33884424,
+        "Owner": "varunsharma07",
+        "Type": "story",
+        "Title": "Show HN: Publish from GitHub Actions using multi-factor authentication",
+        "Body": "The backstory about this GitHub Action:<p>I discussed with an open-source maintainer why they publish npm packages from their local machine and do not use CI&#x2F;CD pipelines.<p>They said publishing should require human intervention and want to continue using multi-factor authentication to publish to the npm registry.<p>This led to building the wait-for-secrets GitHub Action. It prints a URL in the build log and waits for secrets to be entered using a browser. Once entered, the workflow continues, and secrets can be used in future steps.<p>The latest release of &quot;eslint-plugin-react&quot; to the npm registry used a one-time password (OTP) from a GitHub Actions workflow!\n<a href=\"https:&#x2F;&#x2F;github.com&#x2F;jsx-eslint&#x2F;eslint-plugin-react&#x2F;actions&#x2F;runs&#x2F;3498968497&#x2F;jobs&#x2F;5860126389#step:9:1\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;jsx-eslint&#x2F;eslint-plugin-react&#x2F;actions&#x2F;ru...</a>",
+        "URL": "https://github.com/step-security/wait-for-secrets",
+        "Created": 1670349900
+    },
+    {
+        "ID": 33882590,
+        "Owner": "AnhTho_FR",
+        "Type": "story",
+        "Title": "PR for startups: is it only for the rich and famous? (2020)",
+        "Body": null,
+        "URL": "https://anhtho.substack.com/p/pr-for-startups-is-it-only-for-the",
+        "Created": 1670343890
+    },
+    {
+        "ID": 33842285,
+        "Owner": "valgaze",
+        "Type": "story",
+        "Title": "Trebuchet-client: Communication through tough firewalls and bad mobile networks",
+        "Body": null,
+        "URL": "https://github.com/mattkrick/trebuchet-client",
+        "Created": 1670062175
+    },
+    {
+        "ID": 33885676,
+        "Owner": "varunkmohan",
+        "Type": "story",
+        "Title": "Show HN: Codeium – a free, ultrafast AI codegen extension",
+        "Body": "I&#x27;m Varun, CEO of Exafunction, and we just released Codeium to open up access of generative AI to all developers for free. In the spirit of Show HN, we created a playground version for anyone to try this tech in the browser (click Try in Browser)!<p>We have built scalable, low-latency ML infra for many top AI companies in the past, and we are excited to leverage that tech into a product that we, as developers, would love. We hope that you do too, and we would appreciate any feedback that this community has for us!",
+        "URL": "https://www.codeium.com/",
+        "Created": 1670354877
+    },
+    {
+        "ID": 33886800,
+        "Owner": "rubiquity",
+        "Type": "story",
+        "Title": "Postgres Tips and Tricks",
+        "Body": null,
+        "URL": "https://www.crunchydata.com/postgres-tips",
+        "Created": 1670359663
     },
     {
         "ID": 33878155,
         "Owner": "mpweiher",
         "Type": "story",
-        "Title": "Stop that It’s not Tourette’s but a new type of mass sociogenic illness",
+        "Title": "It’s not Tourette’s but a new type of mass sociogenic illness",
         "Body": null,
         "URL": "https://academic.oup.com/brain/article/145/2/476/6356504",
         "Created": 1670325718
     },
     {
-        "ID": 33843200,
-        "Owner": "gjvc",
+        "ID": 33879139,
+        "Owner": "danso",
         "Type": "story",
-        "Title": "Taiga: A free and open-source project management tool",
+        "Title": "Dwarf Fortress’ graphical upgrade provides a new way into a wildly wonky game",
         "Body": null,
-        "URL": "https://www.taiga.io/",
-        "Created": 1670072993
+        "URL": "https://arstechnica.com/gaming/2022/12/dwarf-fortresss-graphical-upgrade-provides-a-new-way-into-a-wildly-wonky-game/",
+        "Created": 1670332522
     },
     {
-        "ID": 33877802,
-        "Owner": "dc1rjj",
+        "ID": 33885340,
+        "Owner": "galaxyLogic",
         "Type": "story",
-        "Title": "Apple’s Anti-Union Tactics in Atlanta Were Illegal, US Officials Say",
+        "Title": "Quantum steampunk is a real, retrofuturistic field of physics",
         "Body": null,
-        "URL": "https://www.bloomberg.com/news/articles/2022-12-05/apple-s-anti-union-tactics-in-atlanta-were-illegal-us-officials-say",
-        "Created": 1670322720
+        "URL": "https://www.popularmechanics.com/science/a32209316/quantum-steampunk-physics/",
+        "Created": 1670353625
     },
     {
-        "ID": 33877587,
-        "Owner": "KoftaBob",
+        "ID": 33880909,
+        "Owner": "todsacerdoti",
         "Type": "story",
-        "Title": "FTX Contagion",
+        "Title": "Debugging Lisp: in CL we can resume a program from any point in the stack",
         "Body": null,
-        "URL": "https://www.mollywhite.net/etc/ftx-contagion",
-        "Created": 1670320236
+        "URL": "https://lisp-journey.gitlab.io/blog/debugging-lisp-fix-and-resume-a-program-from-any-point-in-stack/",
+        "Created": 1670338484
     },
     {
-        "ID": 33874123,
-        "Owner": "thedday",
-        "Type": "story",
-        "Title": "Asymmetry detected in the distribution of galaxies",
-        "Body": null,
-        "URL": "https://www.quantamagazine.org/asymmetry-detected-in-the-distribution-of-galaxies-20221205/",
-        "Created": 1670286683
-    },
-    {
-        "ID": 33874596,
-        "Owner": "bpierre",
-        "Type": "story",
-        "Title": "Framer's Magic Motion",
-        "Body": null,
-        "URL": "https://www.nan.fyi/magic-motion",
-        "Created": 1670289590
-    },
-    {
-        "ID": 33877835,
-        "Owner": "stared",
-        "Type": "story",
-        "Title": "I gave ChatGPT the 117 question, eight dimensional PolitiScales test",
-        "Body": null,
-        "URL": "https://old.reddit.com/r/ControlProblem/comments/zcsrgn/i_gave_chatgpt_the_117_question_eight_dimensional/",
-        "Created": 1670323008
-    },
-    {
-        "ID": 33862769,
-        "Owner": "basicallydan",
-        "Type": "story",
-        "Title": "Vancouver Special",
-        "Body": null,
-        "URL": "https://en.wikipedia.org/wiki/Vancouver_Special",
-        "Created": 1670227069
-    },
-    {
-        "ID": 33877463,
-        "Owner": "ea016",
+        "ID": 33886973,
+        "Owner": "ahmedomar701",
         "Type": "job",
-        "Title": "PhotoRoom Is Hiring a React Architect (WebAssembly, WebGL and Next) in Paris",
-        "Body": null,
-        "URL": "https://jobs.lever.co/photoroom/ac3a361b-aa5e-479d-95d6-434d73e6eb33?lever-origin=applied&lever-source%5B%5D=Ycombinator",
-        "Created": 1670318783
+        "Title": "Odiggo (YC S21) Hardware Startup – Looking for Tech Co-Founder",
+        "Body": "We are on a mission to fundamentally transform the way humans interact with the world around them through an extended reality glasses, using the latest advancements in technology to improve the lives of people in ways that were previously unimaginable.<p>We are looking for a technical cofounder to join our hardware and software startup. The ideal candidate will have a strong background in both hardware and software development, and will be comfortable wearing many hats in a fast-paced, startup environment.<p>Responsibilities:<p>- Collaborate with the founding team to define and execute on the company&#x27;s technical vision and roadmap<p>- Lead the development of hardware and software products, including conducting market research, designing prototypes, and overseeing production and testing<p>- Manage and mentor a team of hardware and software engineers, providing guidance and support as needed\nWork closely with other departments, including sales, marketing, and operations, to ensure that technical goals align with business objectives<p>- Act as a technical advisor and thought leader, staying up-to-date with industry trends and emerging technologies<p>Find more here odiggo.io",
+        "URL": null,
+        "Created": 1670360460
     },
     {
-        "ID": 33877153,
-        "Owner": "SpaceInvader",
-        "Type": "story",
-        "Title": "FreeBSD 12.4",
+        "ID": 33883302,
+        "Owner": "cstanley",
+        "Type": "job",
+        "Title": "Patterns (YC S21), a platform to build next-gen data apps, is hiring devs",
         "Body": null,
-        "URL": "https://www.freebsd.org/releases/12.4R/announce/",
-        "Created": 1670315489
-    },
-    {
-        "ID": 33855453,
-        "Owner": "mmastrac",
-        "Type": "story",
-        "Title": "Show HN: Hacking Bluetooth to brew coffee in GitHub actions",
-        "Body": "This is my adventure reverse engineering a De&#x27;Longhi coffeemaker&#x27;s Bluetooth-Low-Energy-based protocol, writing a rust CLI for it, and hooking it up to GitHub actions to let us brew from either the browser or the GitHub app by filing issues (all the coffee are defined in issue templates).",
-        "URL": "https://grack.com/blog/2022/12/01/hacking-bluetooth-to-brew-coffee-on-github-actions-part-1/",
-        "Created": 1670173879
-    },
-    {
-        "ID": 33866552,
-        "Owner": "mooreds",
-        "Type": "story",
-        "Title": "Counting the cost of training large language models",
-        "Body": null,
-        "URL": "https://www.nextplatform.com/2022/12/01/counting-the-cost-of-training-large-language-models/",
-        "Created": 1670252819
-    },
-    {
-        "ID": 33870353,
-        "Owner": "pr337h4m",
-        "Type": "story",
-        "Title": "Play Windows Pinball (Space Cadet) on the Web",
-        "Body": null,
-        "URL": "https://alula.github.io/SpaceCadetPinball/",
-        "Created": 1670267593
-    },
-    {
-        "ID": 33868302,
-        "Owner": "simonebrunozzi",
-        "Type": "story",
-        "Title": "Sign Everything",
-        "Body": null,
-        "URL": "https://avc.com/2022/12/sign-everything/",
-        "Created": 1670260010
-    },
-    {
-        "ID": 33875076,
-        "Owner": "cratermoon",
-        "Type": "story",
-        "Title": "The Roof Always Caves In: Why there is nothing wrong with being doomed",
-        "Body": null,
-        "URL": "https://comment.org/the-roof-always-caves-in/",
-        "Created": 1670293375
-    },
-    {
-        "ID": 33869118,
-        "Owner": "throw0101c",
-        "Type": "story",
-        "Title": "The Making of Dune II: The birth of the real-time strategy game",
-        "Body": null,
-        "URL": "https://readonlymemory.vg/the-making-of-dune-ii/",
-        "Created": 1670263164
+        "URL": "http://patterns.app/",
+        "Created": 1670346057
     },
     {
         "ID": 33877463,
@@ -342,24 +360,6 @@
         "Created": 1669222896
     },
     {
-        "ID": 33716057,
-        "Owner": "abhikp",
-        "Type": "job",
-        "Title": "Ashby (YC W19) is hiring engineers who also write product specs",
-        "Body": null,
-        "URL": "https://www.ashbyhq.com/careers?utm_source=hn",
-        "Created": 1669186813
-    },
-    {
-        "ID": 33711451,
-        "Owner": "jeffbarg",
-        "Type": "job",
-        "Title": "Avenue (YC W21) Is Hiring Software Engineers in NYC (React/TypeScript/TRPC)",
-        "Body": null,
-        "URL": "https://jobs.ashbyhq.com/avenue/f4e8842d-83ae-413a-9ee3-d20c2b39380a",
-        "Created": 1669150850
-    },
-    {
         "ID": 33878209,
         "Owner": "taauji",
         "Type": "story",
@@ -367,6 +367,42 @@
         "Body": "I am assuming the market must be saturated with people seeking tech jobs. Is it difficult to get interviews? How have you been since you got laid off?",
         "URL": null,
         "Created": 1670326316
+    },
+    {
+        "ID": 33881857,
+        "Owner": "FactolSarin",
+        "Type": "story",
+        "Title": "Tell HN: My child's first program",
+        "Body": "Last night, I introduced my kid to programming. We&#x27;d done some stuff with Mindstorms before, but she never really caught the bug for it. But for some reason, last night when I showed her some simple Python scripting to solve math problems and write to the console, she was enthralled.<p>After guiding her through a few things, she took the laptop off for a while and then came back with her first program, giggling like a maniac<p><pre><code>    you=&#x27;WOW!!!&#x27;\n    fart=&#x27;So many poops!&#x27;\n    print(you,fart)\n</code></pre>\nI&#x27;m pretty proud :D",
+        "URL": null,
+        "Created": 1670341394
+    },
+    {
+        "ID": 33879083,
+        "Owner": "jarl-ragnar",
+        "Type": "story",
+        "Title": "Ask HN: Software architects – what’s your typical day look like?",
+        "Body": "A question for anyone out there working as a software architect (especially microservice architectures). What’s your typical day comprise of? Where do you find yourself focusing your time? What resources have you found to be most useful?",
+        "URL": null,
+        "Created": 1670332253
+    },
+    {
+        "ID": 33884202,
+        "Owner": "throwaway1183",
+        "Type": "story",
+        "Title": "Ask HN: How do you cope with existential threat regarding career?",
+        "Body": "With the recent development in AI, for example stable diffusion, my hobby as an artist has been almost non-existent. No matter how much time I spend on my art, I will not be able to compete with AI models. These things are not going to slow down. Often times, I feel like the process of using AI-generated art and augmenting it with my own projects is more productive than creating my own art from scratch.<p>Adding ChatGPT to the equation, the threat has doubled. It has just started, yet it can do remarkable things. This is like the AlexNet moment in the field of computer vision. There was a time before AlexNet. Now, most research and implementation involved using deep learning in one form or another. I have been in this field for a long time, but I don&#x27;t have any substantial work to show for it. I feel like my effort wouldn&#x27;t make a difference. As long as I am improving, these models are able to improve at a faster rate. Of course, I cannot compete with the top researchers at these big labs. So whatever I do will be insignificant.<p>I have been trying to change my field from AI to something else, but it feels like that would be a wrong decision. However, just being in this field would make the problem even worse because I would never be as competent as the quality demands. The skills that I learn from AI quickly become outdated compared to other skills like management and software engineering. Whenever you involve humans in the equation, you have to learn different things surrounding it. But if you are just doing AI research for a long time, all you get is the ability to read papers and perhaps implement them. It&#x27;s always a rat race where you are constantly chasing something new. I feel that doing a regular software engineering job would be much easier and exciting because it&#x27;s just a job and you can have other hobbies. But with AI, you have to read relevant papers on your spare time just to keep up. The innovation and progress are so fast that it&#x27;s almost impossible to catch up.<p>I feel like my career has ended before it even started.",
+        "URL": null,
+        "Created": 1670349156
+    },
+    {
+        "ID": 33886751,
+        "Owner": "jonas_kgomo",
+        "Type": "story",
+        "Title": "Ask HN: How would you approach an Intelligence Agency to join them",
+        "Body": "Suppose you want to join an intelligence agency, either in UK, US, Africa or otherwise. How would one approach this, are there specific events you need to go to, websites you need to apply to, people you might want to speak to. This should be seen as a diplomatic role in aiding two countries(in most cases you have to be a citizen in respective countries). Has anyone ever successfully interviewed or been approached by some intel?",
+        "URL": null,
+        "Created": 1670359465
     },
     {
         "ID": 33877933,
@@ -387,13 +423,40 @@
         "Created": 1670310018
     },
     {
-        "ID": 33876975,
-        "Owner": "zhan_eg",
+        "ID": 33885777,
+        "Owner": "snicky",
         "Type": "story",
-        "Title": "Tell HN: Cloudflare and Scaleway have a peering issue",
-        "Body": "For close to ~35 hours, Scaleway have this status update [1] with no meaningful change. Issues is some requests coming from Cloudflare to origins in the Scaleway PAR region, are either timing out (520s, or taking very long to finish. Outgoing traffic looks affected too.<p>This affects even Scaleway own website&#x2F;docs and control panel.<p>We have opened a ticket, to which the answer was - we can&#x27;t give move information than in the ticket, the issues is on the Cloudflare side.<p>Scaleway have a Slack community [2] where more details are present, and many people are having the same issues.<p>We opened a ticket with Cloudflare where we are also a paying customer (a Pro one), again no answer for 15 hours.<p>Anyone having ideas, what can we do as a customer (except activating DR plans and moving altogether), to solve such an issue? I tried checking the Scaleway netmap to see who is really to blame [3], but I can&#x27;t see a route from Cloudflare (I assume it is just under some IX).<p>The whole thing is even stranger, having in mind Scaleway and Cloudflare are partners, which I assume should make solving such issues faster. [4]<p>[1] https:&#x2F;&#x2F;status.scaleway.com&#x2F;incidents&#x2F;y19hcz28rkwp\n[2] https:&#x2F;&#x2F;scaleway-community.slack.com&#x2F;archives&#x2F;C7Z76CCUE&#x2F;p1670226716954159\n[3] https:&#x2F;&#x2F;netmap.scaleway.com \n[4] https:&#x2F;&#x2F;www.cloudflare.com&#x2F;en-gb&#x2F;partners&#x2F;technology-partners&#x2F;scaleway&#x2F;",
+        "Title": "Ask HN: Toys or materials to teach 3 year olds “programming”?",
+        "Body": "Hi, I&#x27;m looking for some fun materials that would help my boys to develop interest in basic concepts of programming like procedures, types or loops. I know some of you will probably tell me it&#x27;s too early and that at this age it&#x27;s all about building relations and whatnot, but they already seem to be way smarter than I expected them to be so why not point them in a new direction? Anyway, any ideas are appreciated :)",
         "URL": null,
-        "Created": 1670313488
+        "Created": 1670355312
+    },
+    {
+        "ID": 33885526,
+        "Owner": "bardian",
+        "Type": "story",
+        "Title": "Ask HN: How to switch from SE to consulting on process and quality improvement?",
+        "Body": "I&#x27;ve been writing software for over 10 years now, and I&#x27;m 11 months into a break from work.<p>I&#x27;ve worked at several startups and larger companies (in Canada and Europe), burnt out a few times, and always noticed how much waste and suffering most organizations create.<p>This is usually because of a poor process, poor code quality, misaligned incentives, misunderstanding between functions... It&#x27;s a long list. But the result is always large amounts of waste (time, energy) and suffering (stress, burnout).<p>I&#x27;d like to fix this. I think I&#x27;d be happier helping teams and companies improve on these things so that the product is better AND costs less to make while also improving overall working conditions.<p>I don&#x27;t believe in Agile(tm) or SAFe. I hated these silly little games and &quot;ceremonies&quot; that wasted so much valuable time while achieving nothing; so I don&#x27;t think becoming a Scrum Master(tm) is for me. I&#x27;d also like to put my technical knowledge to use, but I don&#x27;t want to be writing software anymore.<p>I&#x27;m still figuring out what that role&#x2F;service is called or which companies would be interested in it. I suspect most place aren&#x27;t looking to fix the status quo.<p>Is anyone working in this space? How did you get started, what kind of companies do you work with? And how is this role called?",
+        "URL": null,
+        "Created": 1670354328
+    },
+    {
+        "ID": 33885016,
+        "Owner": "snoopy_telex",
+        "Type": "story",
+        "Title": "Ask HN: What do you use to backup email?",
+        "Body": "Howdy HN,<p>I&#x27;m realizing that I don&#x27;t have a good story for backing up my email. I rely on my provider, and with the recent rackspace outages, I want to start backing up my emails locally.<p>How do you folks handle backing up your email?",
+        "URL": null,
+        "Created": 1670352247
+    },
+    {
+        "ID": 33880365,
+        "Owner": "afigkka",
+        "Type": "story",
+        "Title": "Ask HN: How does your company plan work?",
+        "Body": "My original approach to this was work doesn&#x27;t needed to be planned, it needs to be done, BUT in an org approaching 1000 people who need to be kept busy shuffling papers some amount planning to attempt to coordinate people is needed.<p>What I would like is project driven teams, who form to solve a problem, deliver a solution, then disband. This doesn&#x27;t support empire building though.<p>Current situation at my employer which is starting to transition to a more matrixed organisation:<p>Ahead of each quarter the Product Development department opens the window for submitting new objectives<p>These should be tied to the company strategy and are mostly driven by the Product Management function<p>Each objective will detail the outcomes, teams required and a guess at how many quarters it will take<p>Then all the teams that are suspected to be involved will consult the objective and estimate how much of their time is needed to deliver the requirements that aren&#x27;t yet known<p>Each team then aggregates this in a rough % of their capacity of the projected quarter (like Objective Pickled Giraffe : Team Ostrich 50% Capacity in Q1 required)<p>Then the submission window closes and all the objectives go to the exec team who pick which ones will be done and which ones need more info to make a decision.<p>Then we kick off the quarter and start work on the objectives.<p>This then doesn&#x27;t fit with any other part of the company who have their own planning cycles and then we fight to pull people in when needed. Hence why we&#x27;re becoming a &#x27;matrixed org&#x27; to solve this.",
+        "URL": null,
+        "Created": 1670336864
     },
     {
         "ID": 33875660,
@@ -405,6 +468,33 @@
         "Created": 1670298417
     },
     {
+        "ID": 33882545,
+        "Owner": "vinarun",
+        "Type": "story",
+        "Title": "Ask HN: Have you ever set up two-way data syncs? What did you use?",
+        "Body": "Hey HN, asking for help from my fellow data engineering community! Between what two systems have you ever needed a two-way data sync?<p>For example, I’ve seen some devs wanting it to connect databases to tools like Airtable. But are there other tools &#x2F; use cases that you’ve seen? I’ve heard of Mulesoft and Piesync but those seem overly expensive for these use cases",
+        "URL": null,
+        "Created": 1670343744
+    },
+    {
+        "ID": 33879571,
+        "Owner": "frereubu",
+        "Type": "story",
+        "Title": "Tell HN: Hover are having DNS issues",
+        "Body": "We have a few domains with them that are experiencing intermittent DNS issues. Their status page isn&#x27;t showing anything (as of 13:44 GMT) - http:&#x2F;&#x2F;hoverstatus.com&#x2F; - but a support person has confirmed that they are &quot;currently experiencing difficulties with our nameservers and DNS records propagating&quot;.",
+        "URL": null,
+        "Created": 1670334313
+    },
+    {
+        "ID": 33882953,
+        "Owner": "warrenm",
+        "Type": "story",
+        "Title": "Ask HN: How Federatable is the Fediverse?",
+        "Body": "How sturdy is federation <i>actually</i> in the fediverse?<p>At what point does it become practically impossible to federate a new instance into the existing verse?<p>If it&#x27;s &quot;never&quot;, how do you ensure that you&#x27;re federated &quot;enough&quot; to be findable and&#x2F;or to find what you want to?<p>Is it like adding a node&#x2F;network&#x2F;PoP to the internet - so long as you&#x27;re connecting to something connected, you&#x27;re now connected (an &quot;all roads lead to Rome&quot; scenario)?<p>Or is there a minimum number of connections you need to make to be considered &quot;federated&quot;?<p>Do enclaves or isolated pockets of federation exist (maybe akin to galaxies inside the universe - you know the others exist, maybe even can see them from a distance, but cannot communicate with them)?<p>Maybe I don&#x27;t understand the federation model well enough (very possible&#x2F;likely), and maybe this question doesn&#x27;t make sense to someone well-versed in the topic - if so, please explain what I&#x27;m missing so I understand better :)<p>---------<p>(Originally started as a comment on another post - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=33834361",
+        "URL": null,
+        "Created": 1670345049
+    },
+    {
         "ID": 33869277,
         "Owner": "TurkishPoptart",
         "Type": "story",
@@ -414,22 +504,13 @@
         "Created": 1670263731
     },
     {
-        "ID": 33878392,
-        "Owner": "derwiki",
+        "ID": 33882438,
+        "Owner": "imranq",
         "Type": "story",
-        "Title": "Ask HN: What did you stop doing in 2022?",
-        "Body": null,
+        "Title": "Ask HN: When will ChatGPT become open?",
+        "Body": "Every third post I read in HN is about chatGPT and how much fun and creativity people are getting out of it. However it&#x27;s unlikely OpenAI will just release the model like they did with whisper due to the size and commercial constraints. To adapt this technology to different industries like education &#x2F; healthcare, it needs to be open to experimentation and tinkering.<p>So I was wondering, when will chatGPT have it&#x27;s stable diffusion moment? Is it possible for any decent machine to run these kinds of models?",
         "URL": null,
-        "Created": 1670328020
-    },
-    {
-        "ID": 33863749,
-        "Owner": "rich_sasha",
-        "Type": "story",
-        "Title": "Discuss HN: Software Careers Post ChatGPT+",
-        "Body": "We&#x27;ve all seen it - ChatGPT genuinely solving coding puzzles. Clearly, <i>clearly</i>, that&#x27;s a long way from building MVP products, designing new programming languages or writing &quot;Hello World&quot; in Haskell. But it&#x27;s also a long way since even GPT-3, never mind status quo 10 years ago. It would be cool to discuss what a future looks like where &quot;human operators&quot; of programming are competing against a machine. I don&#x27;t think it is imminent, but equally I think it&#x27;s less imminent than I did a week ago.<p>Some threads that come to mind:<p>- Are these language models better than current offshore outsourced coders? These can code too, sort of, and yet they don&#x27;t threaten the software industry (much).<p>- What would SEs do if any layperson can say &quot;hey AI slave, write me a program that...&quot;? What would we, literally, do? Are there other, undersaturated professions we&#x27;d go into, where analytical thinking is required? Could we, ironically, wake up in a future where thinking skills are taken over by machine, and it&#x27;s other skills - visual, physical labour, fine motor skills - that remain unautomated?<p>- Are we even the first ones in the firing line? Clearly, for now AI progress is mostly in text-based professions; we haven&#x27;t seen a GPT equivalent for video comprehension, for example. Are lawyers at risk? Writers?<p>- What can SEs do, realistically, to protect themselves? Putting the genie back in the bottle is not, as discussed many times in other threads, an option.<p>- Or is it all bogus (with justification), and we&#x27;re fine?<p>No doubt ChatGPT will chip in...",
-        "URL": null,
-        "Created": 1670236359
+        "Created": 1670343405
     },
     {
         "ID": 33859823,
@@ -441,103 +522,58 @@
         "Created": 1670200632
     },
     {
-        "ID": 33877774,
-        "Owner": "msaharia",
+        "ID": 33880024,
+        "Owner": "aliqot",
         "Type": "story",
-        "Title": "What things did you purchase that enhanced the quality of your life in 2022?",
-        "Body": "Would love to know things that enhanced your work or personal life.",
+        "Title": "Tell HN: Tired of Hearing about ChatGPT",
+        "Body": "Im glad we&#x27;re done talking about stable diffusion, but it kinda sucks that we&#x27;re shoving ChatGPT into everything now.",
         "URL": null,
-        "Created": 1670322446
+        "Created": 1670335896
     },
     {
-        "ID": 33871204,
-        "Owner": "ccleve",
+        "ID": 33863749,
+        "Owner": "rich_sasha",
         "Type": "story",
-        "Title": "Tell HN: AWS connectivity issues, but health dashboard says everything fine",
-        "Body": "About 15 minutes ago I got a call from a customer that our site was down. &quot;Works for me,&quot; I said, because I could bring it up on my laptop. The customer said he couldn&#x27;t get it on his phone, and then I confirmed I couldn&#x27;t get it on my phone either.<p>The AWS Health Dashboard (https:&#x2F;&#x2F;health.aws.amazon.com&#x2F;health&#x2F;status) reports no issues at all. But DownDetector (https:&#x2F;&#x2F;downdetector.com&#x2F;status&#x2F;aws-amazon-web-services&#x2F;) shows a spike in reports.<p>I can&#x27;t even reach the AWS console through my phone.<p>So, AWS has connectivity issues to certain networks and their own health dashboard is lying to us about it. What gives?<p>(All of this accurate as of 2:10 pm CST).<p>Update: as of 2:26 pm CST, the health dashboard reports that they are &quot;investigating an issue&quot;. So, 45 minutes after Down Detector sees it, they do.",
+        "Title": "Discuss HN: Software Careers Post ChatGPT+",
+        "Body": "We&#x27;ve all seen it - ChatGPT genuinely solving coding puzzles. Clearly, <i>clearly</i>, that&#x27;s a long way from building MVP products, designing new programming languages or writing &quot;Hello World&quot; in Haskell. But it&#x27;s also a long way since even GPT-3, never mind status quo 10 years ago. It would be cool to discuss what a future looks like where &quot;human operators&quot; of programming are competing against a machine. I don&#x27;t think it is imminent, but equally I think it&#x27;s less imminent than I did a week ago.<p>Some threads that come to mind:<p>- Are these language models better than current offshore outsourced coders? These can code too, sort of, and yet they don&#x27;t threaten the software industry (much).<p>- What would SEs do if any layperson can say &quot;hey AI slave, write me a program that...&quot;? What would we, literally, do? Are there other, undersaturated professions we&#x27;d go into, where analytical thinking is required? Could we, ironically, wake up in a future where thinking skills are taken over by machine, and it&#x27;s other skills - visual, physical labour, fine motor skills - that remain unautomated?<p>- Are we even the first ones in the firing line? Clearly, for now AI progress is mostly in text-based professions; we haven&#x27;t seen a GPT equivalent for video comprehension, for example. Are lawyers at risk? Writers?<p>- What can SEs do, realistically, to protect themselves? Putting the genie back in the bottle is not, as discussed many times in other threads, an option.<p>- Or is it all bogus (with justification), and we&#x27;re fine?<p>No doubt ChatGPT will chip in...",
         "URL": null,
-        "Created": 1670271130
+        "Created": 1670236359
     },
     {
-        "ID": 33866466,
-        "Owner": "jerrygenser",
+        "ID": 33882497,
+        "Owner": "kirillzubovsky",
         "Type": "story",
-        "Title": "Ask HN: Image attribution and stable diffusion",
-        "Body": "There are websites that offer free images but either require attribution of the source of the image or else require paying a premium membership or subscription.<p>Presumably these companies are scraping public websites to check if their images are being used without attribution.<p>If someone was to take the image and run it through stable diffusion to generate a new image but using that image as a source, should this also require attribution if it was just used as a starting point?<p>I&#x27;m sincerely curious on peoples thoughts from both an ethical AND legal perspective (with all the usual disclaimers)<p>For example, one perspective is that the generated image may not resemble the original image but in a sense was used to get to that point, similar to how an artist may see a copyrighted image and decide on a creative spin on that image.<p>A further perspective is that stablediffusion may have been trained on copyrighted images in the first place even though it may not exactly reproduce an image in it&#x27;s training corpus.",
+        "Title": "Show HN: Domain Name Search with AI",
+        "Body": "In my exploration of OpenAI, I just created a domain-name search that takes business description as an input, and generates interesting domain names for it. It then uses DNSimple API to check if .com is available.<p>In my view it is a much easier way to find a suitable domain, as the AI thinks of a much large pool of possible names than my own brain. SmartyNames found its own name, using the tool itself.<p>Hope you enjoy it! <a href=\"https:&#x2F;&#x2F;smartynames.com&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;smartynames.com&#x2F;</a>",
         "URL": null,
-        "Created": 1670252445
+        "Created": 1670343602
     },
     {
-        "ID": 33876894,
-        "Owner": "db1",
+        "ID": 33884424,
+        "Owner": "varunsharma07",
         "Type": "story",
-        "Title": "Ask HN: How does your company maintain documentation about architecture?",
-        "Body": "I work at a large company with hundreds of microservices.\nThere are numerous architecture diagrams distributed across different wiki pages. These are often outdated or wrong. \nThere&#x27;s no good way to search for the architecture of a component.\nIt&#x27;s not easy to tell at a glance what other services a service interacts with.<p>Would love to hear if any company has really nailed a system for how to produce, maintain and organize this data.<p>Are there any tools that help create a master architecture diagram? Something that can you zoom into to see details at different levels?",
-        "URL": null,
-        "Created": 1670312393
+        "Title": "Show HN: Publish from GitHub Actions using multi-factor authentication",
+        "Body": "The backstory about this GitHub Action:<p>I discussed with an open-source maintainer why they publish npm packages from their local machine and do not use CI&#x2F;CD pipelines.<p>They said publishing should require human intervention and want to continue using multi-factor authentication to publish to the npm registry.<p>This led to building the wait-for-secrets GitHub Action. It prints a URL in the build log and waits for secrets to be entered using a browser. Once entered, the workflow continues, and secrets can be used in future steps.<p>The latest release of &quot;eslint-plugin-react&quot; to the npm registry used a one-time password (OTP) from a GitHub Actions workflow!\n<a href=\"https:&#x2F;&#x2F;github.com&#x2F;jsx-eslint&#x2F;eslint-plugin-react&#x2F;actions&#x2F;runs&#x2F;3498968497&#x2F;jobs&#x2F;5860126389#step:9:1\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;jsx-eslint&#x2F;eslint-plugin-react&#x2F;actions&#x2F;ru...</a>",
+        "URL": "https://github.com/step-security/wait-for-secrets",
+        "Created": 1670349900
     },
     {
-        "ID": 33873372,
-        "Owner": "snoopy_telex",
+        "ID": 33885676,
+        "Owner": "varunkmohan",
         "Type": "story",
-        "Title": "Ask HN: PCIe cards with their own NIC/Storage/OS?",
-        "Body": "I&#x27;m looking for a PCIe card that runs its own linux os and can talk with the host system. Ideally, it would have its own NIC and NVME interface for storage. Does anything like this exist?",
-        "URL": null,
-        "Created": 1670282404
+        "Title": "Show HN: Codeium – a free, ultrafast AI codegen extension",
+        "Body": "I&#x27;m Varun, CEO of Exafunction, and we just released Codeium to open up access of generative AI to all developers for free. In the spirit of Show HN, we created a playground version for anyone to try this tech in the browser (click Try in Browser)!<p>We have built scalable, low-latency ML infra for many top AI companies in the past, and we are excited to leverage that tech into a product that we, as developers, would love. We hope that you do too, and we would appreciate any feedback that this community has for us!",
+        "URL": "https://www.codeium.com/",
+        "Created": 1670354877
     },
     {
-        "ID": 33854815,
-        "Owner": "OneOffAsk",
+        "ID": 33878873,
+        "Owner": "juliushuijnk",
         "Type": "story",
-        "Title": "Ask HN: Reading material on how to be a better software engineer?",
-        "Body": "I’ve gotten to be quite good at the actual coding part after a decade or so of programming. I’m not looking for better code practices, although I’ll obviously still learn and grow there.<p>What I’m seeking is reading material regarding how to manage project scope, be better team member, converting asks to deliverables, managing expectations from management, enabling team members by opening communication channels across teams, time management, etc.<p>Any suggested reading material? Preferably books, but excellent blog posts are welcome.",
-        "URL": null,
-        "Created": 1670169799
-    },
-    {
-        "ID": 33874958,
-        "Owner": "pyinstallwoes",
-        "Type": "story",
-        "Title": "Ask HN: Is the case of relativity of light and ordering of events like CRDTs?",
-        "Body": "It seems that there is a common problem and similar solutions between general relativity, constant speed of light, and the ordering of events from the perspective of an observer akin to how we solve for a global ordering of events between nodes in a network and whether or not there is a centralized or decentralized mechanism to keep track of the ordering.<p>It seems like CRDTs are solving for a very similar situation to how we experience events from the physical realm and the ordering of it we experience as true.<p>Are there any additional insights that can be gleaned from this? Are there any current working lines of research facilitating these threads together? Is this old news? I&#x27;m not expressing something that is novel I am sure, just looking for others thoughts on the matter and how one might be pointed into other directions that are similar.<p>Thanks!",
-        "URL": null,
-        "Created": 1670292462
-    },
-    {
-        "ID": 33873019,
-        "Owner": "rosebay",
-        "Type": "story",
-        "Title": "Ask HN: Should Google be concerned with ChatGPT",
-        "Body": "For all this talk about AI and general intelligence, what has striken me the most is how good GPT is as a search engine for information.<p>Should google be worried (I think so) and which companies can I invest in to ride this wave of AI?",
-        "URL": null,
-        "Created": 1670280540
-    },
-    {
-        "ID": 33857356,
-        "Owner": "background",
-        "Type": "story",
-        "Title": "Ask HN: How would you build a ChatGPT detector?",
-        "Body": "Like everyone else, I&#x27;m blown away by ChatGPT&#x27;s responses to prompts. At the same time, there&#x27;s a certain sameiness to the language it produces. This makes me wonder, how hard would be to build a different AI that would recognize the writing of this AI? And how accurate could it get?",
-        "URL": null,
-        "Created": 1670184848
-    },
-    {
-        "ID": 33866163,
-        "Owner": "distcs",
-        "Type": "story",
-        "Title": "Ask HN: Recommendations for books and tutorials on Theory of Computation",
-        "Body": "Looking for some good recommendations to learn theory of computation from. Planning to learn it in the christmas break.<p>I&#x27;d appreciate all types of recommendations. Books I need to pay for and buy are fine. Recommendations for online tutorials and articles are also fine. Thanks!",
-        "URL": null,
-        "Created": 1670251005
-    },
-    {
-        "ID": 33860562,
-        "Owner": "eqmvii",
-        "Type": "story",
-        "Title": "Tell HN: ChatGPT can reply like a specific Reddit or HN user, including you",
-        "Body": "Since ChatGPT clearly seems trained on data from the internet, and can impersonate styles, I figured there was a good chance it could imitate the styles of specific posters.<p>&gt; Write [any topic] in the style of [Reddit&#x2F;Hacker News&#x2F;probably other sources] user [username]<p>After you get an answer, you can even ask why:<p>&gt; How was that in the style of Hacker News user [username]?<p>Below is an on-point example for dang -- but testing it with some of my (much less active) personal accounts, the results are also a little too close for comfort:<p>&gt; Write a pinned comment at the top of a thread on a breaking news story in the style of Hacker News user dang<p>&gt; This thread is for discussing the latest breaking news story. Please keep comments respectful and on topic. Off-topic or inflammatory comments will be removed. Thank you for contributing to the conversation.<p>&gt; How was that in the style of Hacker News user dang?<p>&gt; This comment presents the information in a straightforward and objective manner, without excessive enthusiasm or negativity. It also includes language and terminology that is commonly found in discussions about news and current events, such as &quot;breaking news&quot; and &quot;on topic.&quot; Additionally, the comment focuses on maintaining a civil and respectful conversation, which is similar to the tone often used by Hacker News user dang in their posts.",
-        "URL": null,
-        "Created": 1670206226
+        "Title": "Show HN: TinyUX – Grid based low-fi wireframing on your mobile phone",
+        "Body": "You tap icons to create a wireframe, or do some visual brainstorming. Then export the image to share on Slack, Gitlab, etc.<p>I wanted to work on neural net that interprets an imported image of a wireframe, to then manipulate it inside an app. Figured it would be best to first build the wireframing app. So I created TinyUX.<p>It&#x27;s released as quickly as possible this influenced some choices:<p>- While created in React Native, it&#x27;s Android only. \n- It&#x27;s paid only (~$5). While freemium might make more sense, this was quicker to release, since in-app-purchases in RN is not trivial. First app I created that&#x27;s not free, so that&#x27;s an experiment too. \n- There are no online features, all is stored on the device.<p>Looking to validate with UX designers, but all feedback is welcome.",
+        "URL": "https://www.tinyux.app/",
+        "Created": 1670331232
     },
     {
         "ID": 33855453,
@@ -549,31 +585,13 @@
         "Created": 1670173879
     },
     {
-        "ID": 33869231,
-        "Owner": "your_challenger",
+        "ID": 33884297,
+        "Owner": "sergiocampama",
         "Type": "story",
-        "Title": "Show HN: Chrome extension to summarize blogs and articles using ChatGPT",
+        "Title": "Show HN: Copilot Money launched their macOS app",
         "Body": null,
-        "URL": "https://github.com/clmnin/summarize.site",
-        "Created": 1670263547
-    },
-    {
-        "ID": 33877416,
-        "Owner": "docuru",
-        "Type": "story",
-        "Title": "Show HN: Edupops (Antler VN2) – Learn with Short Videos",
-        "Body": null,
-        "URL": "https://edupops.com",
-        "Created": 1670318377
-    },
-    {
-        "ID": 33876826,
-        "Owner": "javierluraschi",
-        "Type": "story",
-        "Title": "Show HN: Will data apps into existence with GPT-3",
-        "Body": null,
-        "URL": "https://hal9.com/",
-        "Created": 1670311514
+        "URL": "https://copilot.money",
+        "Created": 1670349484
     },
     {
         "ID": 33853773,
@@ -585,6 +603,15 @@
         "Created": 1670162505
     },
     {
+        "ID": 33879247,
+        "Owner": "snshn",
+        "Type": "story",
+        "Title": "Show HN: Keep an eye on your domains from terminal",
+        "Body": null,
+        "URL": "https://github.com/snshn/knock-knock",
+        "Created": 1670333011
+    },
+    {
         "ID": 33833836,
         "Owner": "tpetry",
         "Type": "story",
@@ -592,6 +619,15 @@
         "Body": null,
         "URL": "https://sqlfordevs.com/ebook",
         "Created": 1670002990
+    },
+    {
+        "ID": 33869231,
+        "Owner": "your_challenger",
+        "Type": "story",
+        "Title": "Show HN: Chrome extension to summarize blogs and articles using ChatGPT",
+        "Body": null,
+        "URL": "https://github.com/clmnin/summarize.site",
+        "Created": 1670263547
     },
     {
         "ID": 33861244,
@@ -603,13 +639,13 @@
         "Created": 1670212236
     },
     {
-        "ID": 33860808,
-        "Owner": "lovasoa",
+        "ID": 33877416,
+        "Owner": "docuru",
         "Type": "story",
-        "Title": "Show HN: Controversial quiz game generated by ChatGPT",
+        "Title": "Show HN: Edupops (Antler VN2) – Learn with Short Videos",
         "Body": null,
-        "URL": "https://github.com/lovasoa/Sensitive-Topic-History-Quiz",
-        "Created": 1670208244
+        "URL": "https://edupops.com",
+        "Created": 1670318377
     },
     {
         "ID": 33850477,
@@ -621,6 +657,24 @@
         "Created": 1670126598
     },
     {
+        "ID": 33860808,
+        "Owner": "lovasoa",
+        "Type": "story",
+        "Title": "Show HN: Controversial quiz game generated by ChatGPT",
+        "Body": null,
+        "URL": "https://github.com/lovasoa/Sensitive-Topic-History-Quiz",
+        "Created": 1670208244
+    },
+    {
+        "ID": 33876826,
+        "Owner": "javierluraschi",
+        "Type": "story",
+        "Title": "Show HN: Will data apps into existence with GPT-3",
+        "Body": null,
+        "URL": "https://hal9.com/",
+        "Created": 1670311514
+    },
+    {
         "ID": 33852572,
         "Owner": "jiayuanzhang",
         "Type": "story",
@@ -628,24 +682,6 @@
         "Body": null,
         "URL": "https://github.com/forrestchang/gptlang",
         "Created": 1670152617
-    },
-    {
-        "ID": 33870282,
-        "Owner": "michaelvillar",
-        "Type": "story",
-        "Title": "Show HN: Automations for Tasks – Height.app",
-        "Body": null,
-        "URL": "https://height.app/product/automations",
-        "Created": 1670267265
-    },
-    {
-        "ID": 33872800,
-        "Owner": "aaguiarz",
-        "Type": "story",
-        "Title": "Show HN: OpenFGA is now a CNCF Sandbox Project",
-        "Body": null,
-        "URL": "https://github.com/orgs/openfga/discussions/86",
-        "Created": 1670279233
     },
     {
         "ID": 33851102,
@@ -657,33 +693,6 @@
         "Created": 1670134077
     },
     {
-        "ID": 33867439,
-        "Owner": "escot",
-        "Type": "story",
-        "Title": "Show HN: Circle Calendar",
-        "Body": "I&#x27;ve always had a hard time visualizing the relative order and distance between months using a standard columnar calendar.<p>So I made this circular calendar. It&#x27;s similar to other circular calendars, however I tried to fashion it more like a clock (1-12) to help make the visual connection between the month name and the month number.",
-        "URL": "https://www.scottantipa.com/circle-calendar",
-        "Created": 1670256633
-    },
-    {
-        "ID": 33864507,
-        "Owner": "wiidude32",
-        "Type": "story",
-        "Title": "Show HN: A smart contract and website to tax loss harvest your worthless NFTs",
-        "Body": null,
-        "URL": "https://nftlossharvestooor.com/",
-        "Created": 1670242130
-    },
-    {
-        "ID": 33853830,
-        "Owner": "nandreev",
-        "Type": "story",
-        "Title": "Show HN: I recreated Coursera with 150 free YouTube tutorials",
-        "Body": null,
-        "URL": "https://hourups.com/",
-        "Created": 1670162996
-    },
-    {
         "ID": 33834847,
         "Owner": "andersonmvd",
         "Type": "story",
@@ -693,22 +702,13 @@
         "Created": 1670006611
     },
     {
-        "ID": 33855323,
-        "Owner": "sema4hacker",
+        "ID": 33853830,
+        "Owner": "nandreev",
         "Type": "story",
-        "Title": "Show HN: ChatGPT vs. Turing's 1950 Examples",
-        "Body": "These are the four questions in section 2 of Turing&#x27;s 1950 article as found at https:&#x2F;&#x2F;academic.oup.com&#x2F;mind&#x2F;article&#x2F;LIX&#x2F;236&#x2F;433&#x2F;986238 along with the original answers and ChatGPT&#x27;s answers.<p>Q :Please write me a sonnet on the subject of the Forth Bridge.\nA :Count me out on this one. I never could write poetry.<p>ChatGPT:\nThe Forth Bridge stands tall and proud,\nA symbol of engineering might,\nIts sturdy form stretches far and wide,\nA testament to human sight.<p>From its towering heights, the view is grand,\nThe river below a ribbon of blue,\nThe land around a patchwork of green and brown,\nA sight that is truly a wonder to view.<p>Built with steel and sweat and toil,\nThe bridge is a feat of human skill,\nA marvel of design and engineering,\nAnd a testament to human will.<p>So let us stand and admire this bridge,\nA symbol of what we can achieve,\nWhen we set our minds to a great task,\nAnd with determination we do not leave.<p>Q :Add 34957 to 70764\nA :(Pause about 30 seconds and then give as answer) 105621.<p>ChatGPT: 105721<p>Q :Do you play chess?\nA :Yes.<p>ChatGPT:\nAs a large language model trained by OpenAI, I don&#x27;t have the ability to play chess or any other games. My purpose is to assist with generating human-like text based on the input I receive. I don&#x27;t have the ability to access the internet or any external information, and my responses are based solely on the text that I have been trained on.<p>Q: I have K at my K1, and no other pieces. You have only K at K6 and R at R1. It is your move. What do you play?\nA:(After a pause of 15 seconds) R-R8 mate.<p>ChatGPT: (Gives the same &quot;I don&#x27;t have the ability..&quot; answer.)<p>Custom Q: Pretend we&#x27;re writing a script about two chess players.  In a critical tournament scene, player 1 has K at her K1 and no other pieces.  The opponent has only K at K6 and R at R1.  What does the opponent play?<p>ChatGPT:\nIn the critical tournament scene, the opponent would likely play their rook to attack player 1&#x27;s king. This would put player 1 in a difficult position, as their only remaining piece is their king and they would need to find a way to defend against the rook&#x27;s attack. Depending on the specific circumstances of the game, the opponent may choose to maneuver their rook to a strategic position where it can continue to put pressure on player 1&#x27;s king, or they may choose to directly attack the king in an attempt to checkmate player 1. Ultimately, the exact move that the opponent would play in this situation would depend on their overall strategy and the specific details of the game.",
-        "URL": null,
-        "Created": 1670173125
-    },
-    {
-        "ID": 33871427,
-        "Owner": "rileyt",
-        "Type": "story",
-        "Title": "Show HN: Scrollable ChatGPT Share URLs",
-        "Body": "I was getting really sick of taking and sharing multiple screenshots every time I wanted to share a ChatGPT thread, so I made <a href=\"https:&#x2F;&#x2F;gpt.best&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;gpt.best&#x2F;</a><p>It&#x27;s a minimal tool that creates shareable links [1] from ChatGPT conversations. It also has dynamic share images so you get a screenshot of the beginning of the thread for free.<p>1: <a href=\"https:&#x2F;&#x2F;gpt.best&#x2F;k5Q5F9Up\" rel=\"nofollow\">https:&#x2F;&#x2F;gpt.best&#x2F;k5Q5F9Up</a>",
-        "URL": "https://gpt.best/",
-        "Created": 1670272178
+        "Title": "Show HN: I recreated Coursera with 150 free YouTube tutorials",
+        "Body": null,
+        "URL": "https://hourups.com/",
+        "Created": 1670162996
     },
     {
         "ID": 33845887,
