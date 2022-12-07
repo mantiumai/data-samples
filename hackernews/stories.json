@@ -1,0 +1,722 @@
+[
+    {
+        "ID": 33886673,
+        "Owner": "calstephens",
+        "Type": "story",
+        "Title": "Lottie 4.0 for iOS: new render engine with significant performance improvements",
+        "Body": null,
+        "URL": "https://medium.com/airbnb-engineering/announcing-lottie-4-0-for-ios-d4d226862a54",
+        "Created": 1670359053
+    },
+    {
+        "ID": 33882506,
+        "Owner": "sl-dolt",
+        "Type": "story",
+        "Title": "Open-source hospital price transparency",
+        "Body": null,
+        "URL": "https://www.dolthub.com/blog/2022-12-02-open-source-hospital-price-transparency/",
+        "Created": 1670343634
+    },
+    {
+        "ID": 33884403,
+        "Owner": "capableweb",
+        "Type": "story",
+        "Title": "Ledger Stax – Hardware wallet with eInk display for digital assets",
+        "Body": null,
+        "URL": "https://shop.ledger.com/pages/ledger-stax",
+        "Created": 1670349834
+    },
+    {
+        "ID": 33877838,
+        "Owner": "antirez",
+        "Type": "story",
+        "Title": "The cloudy layers of modern-day programming",
+        "Body": null,
+        "URL": "https://vickiboykis.com/2022/12/05/the-cloudy-layers-of-modern-day-programming/",
+        "Created": 1670323014
+    },
+    {
+        "ID": 33886709,
+        "Owner": "rubiquity",
+        "Type": "story",
+        "Title": "Faceting large result sets in PostgreSQL",
+        "Body": null,
+        "URL": "https://www.cybertec-postgresql.com/en/faceting-large-result-sets/",
+        "Created": 1670359242
+    },
+    {
+        "ID": 33882497,
+        "Owner": "kirillzubovsky",
+        "Type": "story",
+        "Title": "Show HN: Domain Name Search with AI",
+        "Body": "In my exploration of OpenAI, I just created a domain-name search that takes business description as an input, and generates interesting domain names for it. It then uses DNSimple API to check if .com is available.<p>In my view it is a much easier way to find a suitable domain, as the AI thinks of a much large pool of possible names than my own brain. SmartyNames found its own name, using the tool itself.<p>Hope you enjoy it! <a href=\"https:&#x2F;&#x2F;smartynames.com&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;smartynames.com&#x2F;</a>",
+        "URL": null,
+        "Created": 1670343602
+    },
+    {
+        "ID": 33886973,
+        "Owner": "ahmedomar701",
+        "Type": "job",
+        "Title": "Odiggo (YC S21) Hardware Startup – Looking for Tech Co-Founder",
+        "Body": "We are on a mission to fundamentally transform the way humans interact with the world around them through an extended reality glasses, using the latest advancements in technology to improve the lives of people in ways that were previously unimaginable.<p>We are looking for a technical cofounder to join our hardware and software startup. The ideal candidate will have a strong background in both hardware and software development, and will be comfortable wearing many hats in a fast-paced, startup environment.<p>Responsibilities:<p>- Collaborate with the founding team to define and execute on the company&#x27;s technical vision and roadmap<p>- Lead the development of hardware and software products, including conducting market research, designing prototypes, and overseeing production and testing<p>- Manage and mentor a team of hardware and software engineers, providing guidance and support as needed\nWork closely with other departments, including sales, marketing, and operations, to ensure that technical goals align with business objectives<p>- Act as a technical advisor and thought leader, staying up-to-date with industry trends and emerging technologies<p>Find more here odiggo.io",
+        "URL": null,
+        "Created": 1670360460
+    },
+    {
+        "ID": 33882903,
+        "Owner": "ibobev",
+        "Type": "story",
+        "Title": "Optimizing compilers reload vector constants needlessly",
+        "Body": null,
+        "URL": "https://lemire.me/blog/2022/12/06/optimizing-compilers-reload-vector-constants-needlessly/",
+        "Created": 1670344884
+    },
+    {
+        "ID": 33884441,
+        "Owner": "zeraphy",
+        "Type": "story",
+        "Title": "Apple announces ‘upgrade’ to App Store pricing, adding 700 new price points",
+        "Body": null,
+        "URL": "https://appleworld.today/archives/101157",
+        "Created": 1670349963
+    },
+    {
+        "ID": 33885153,
+        "Owner": "Schiphol",
+        "Type": "story",
+        "Title": "I Taught ChatGPT to Invent a Language",
+        "Body": null,
+        "URL": "https://maximumeffort.substack.com/p/i-taught-chatgpt-to-invent-a-language",
+        "Created": 1670352781
+    },
+    {
+        "ID": 33885834,
+        "Owner": "mconbere",
+        "Type": "story",
+        "Title": "RadTrike Electric Tricycle",
+        "Body": null,
+        "URL": "https://www.radpowerbikes.com/products/radtrike-electric-tricycle",
+        "Created": 1670355606
+    },
+    {
+        "ID": 33884424,
+        "Owner": "varunsharma07",
+        "Type": "story",
+        "Title": "Show HN: Publish from GitHub Actions using multi-factor authentication",
+        "Body": "The backstory about this GitHub Action:<p>I discussed with an open-source maintainer why they publish npm packages from their local machine and do not use CI&#x2F;CD pipelines.<p>They said publishing should require human intervention and want to continue using multi-factor authentication to publish to the npm registry.<p>This led to building the wait-for-secrets GitHub Action. It prints a URL in the build log and waits for secrets to be entered using a browser. Once entered, the workflow continues, and secrets can be used in future steps.<p>The latest release of &quot;eslint-plugin-react&quot; to the npm registry used a one-time password (OTP) from a GitHub Actions workflow!\n<a href=\"https:&#x2F;&#x2F;github.com&#x2F;jsx-eslint&#x2F;eslint-plugin-react&#x2F;actions&#x2F;runs&#x2F;3498968497&#x2F;jobs&#x2F;5860126389#step:9:1\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;jsx-eslint&#x2F;eslint-plugin-react&#x2F;actions&#x2F;ru...</a>",
+        "URL": "https://github.com/step-security/wait-for-secrets",
+        "Created": 1670349900
+    },
+    {
+        "ID": 33882590,
+        "Owner": "AnhTho_FR",
+        "Type": "story",
+        "Title": "PR for startups: is it only for the rich and famous? (2020)",
+        "Body": null,
+        "URL": "https://anhtho.substack.com/p/pr-for-startups-is-it-only-for-the",
+        "Created": 1670343890
+    },
+    {
+        "ID": 33842285,
+        "Owner": "valgaze",
+        "Type": "story",
+        "Title": "Trebuchet-client: Communication through tough firewalls and bad mobile networks",
+        "Body": null,
+        "URL": "https://github.com/mattkrick/trebuchet-client",
+        "Created": 1670062175
+    },
+    {
+        "ID": 33885676,
+        "Owner": "varunkmohan",
+        "Type": "story",
+        "Title": "Show HN: Codeium – a free, ultrafast AI codegen extension",
+        "Body": "I&#x27;m Varun, CEO of Exafunction, and we just released Codeium to open up access of generative AI to all developers for free. In the spirit of Show HN, we created a playground version for anyone to try this tech in the browser (click Try in Browser)!<p>We have built scalable, low-latency ML infra for many top AI companies in the past, and we are excited to leverage that tech into a product that we, as developers, would love. We hope that you do too, and we would appreciate any feedback that this community has for us!",
+        "URL": "https://www.codeium.com/",
+        "Created": 1670354877
+    },
+    {
+        "ID": 33886800,
+        "Owner": "rubiquity",
+        "Type": "story",
+        "Title": "Postgres Tips and Tricks",
+        "Body": null,
+        "URL": "https://www.crunchydata.com/postgres-tips",
+        "Created": 1670359663
+    },
+    {
+        "ID": 33878155,
+        "Owner": "mpweiher",
+        "Type": "story",
+        "Title": "It’s not Tourette’s but a new type of mass sociogenic illness",
+        "Body": null,
+        "URL": "https://academic.oup.com/brain/article/145/2/476/6356504",
+        "Created": 1670325718
+    },
+    {
+        "ID": 33879139,
+        "Owner": "danso",
+        "Type": "story",
+        "Title": "Dwarf Fortress’ graphical upgrade provides a new way into a wildly wonky game",
+        "Body": null,
+        "URL": "https://arstechnica.com/gaming/2022/12/dwarf-fortresss-graphical-upgrade-provides-a-new-way-into-a-wildly-wonky-game/",
+        "Created": 1670332522
+    },
+    {
+        "ID": 33885340,
+        "Owner": "galaxyLogic",
+        "Type": "story",
+        "Title": "Quantum steampunk is a real, retrofuturistic field of physics",
+        "Body": null,
+        "URL": "https://www.popularmechanics.com/science/a32209316/quantum-steampunk-physics/",
+        "Created": 1670353625
+    },
+    {
+        "ID": 33880909,
+        "Owner": "todsacerdoti",
+        "Type": "story",
+        "Title": "Debugging Lisp: in CL we can resume a program from any point in the stack",
+        "Body": null,
+        "URL": "https://lisp-journey.gitlab.io/blog/debugging-lisp-fix-and-resume-a-program-from-any-point-in-stack/",
+        "Created": 1670338484
+    },
+    {
+        "ID": 33886973,
+        "Owner": "ahmedomar701",
+        "Type": "job",
+        "Title": "Odiggo (YC S21) Hardware Startup – Looking for Tech Co-Founder",
+        "Body": "We are on a mission to fundamentally transform the way humans interact with the world around them through an extended reality glasses, using the latest advancements in technology to improve the lives of people in ways that were previously unimaginable.<p>We are looking for a technical cofounder to join our hardware and software startup. The ideal candidate will have a strong background in both hardware and software development, and will be comfortable wearing many hats in a fast-paced, startup environment.<p>Responsibilities:<p>- Collaborate with the founding team to define and execute on the company&#x27;s technical vision and roadmap<p>- Lead the development of hardware and software products, including conducting market research, designing prototypes, and overseeing production and testing<p>- Manage and mentor a team of hardware and software engineers, providing guidance and support as needed\nWork closely with other departments, including sales, marketing, and operations, to ensure that technical goals align with business objectives<p>- Act as a technical advisor and thought leader, staying up-to-date with industry trends and emerging technologies<p>Find more here odiggo.io",
+        "URL": null,
+        "Created": 1670360460
+    },
+    {
+        "ID": 33883302,
+        "Owner": "cstanley",
+        "Type": "job",
+        "Title": "Patterns (YC S21), a platform to build next-gen data apps, is hiring devs",
+        "Body": null,
+        "URL": "http://patterns.app/",
+        "Created": 1670346057
+    },
+    {
+        "ID": 33877463,
+        "Owner": "ea016",
+        "Type": "job",
+        "Title": "PhotoRoom Is Hiring a React Architect (WebAssembly, WebGL and Next) in Paris",
+        "Body": null,
+        "URL": "https://jobs.lever.co/photoroom/ac3a361b-aa5e-479d-95d6-434d73e6eb33?lever-origin=applied&lever-source%5B%5D=Ycombinator",
+        "Created": 1670318783
+    },
+    {
+        "ID": 33855362,
+        "Owner": "ethanyu94",
+        "Type": "job",
+        "Title": "Motion (YC W20) Is Hiring a Senior SRE",
+        "Body": null,
+        "URL": "https://jobs.ashbyhq.com/motion/dfe19251-9d97-4e6b-b9ac-04422a697f57?utm_source=hn",
+        "Created": 1670173330
+    },
+    {
+        "ID": 33852896,
+        "Owner": "kennandavison",
+        "Type": "job",
+        "Title": "Skio (YC S20) is hiring – subscriptions for Shopify, easy ReCharge migrations",
+        "Body": null,
+        "URL": "https://skio.com/careers",
+        "Created": 1670155460
+    },
+    {
+        "ID": 33833145,
+        "Owner": "thedogeye",
+        "Type": "job",
+        "Title": "Flexport (YC W14) Is Hiring Software Engineers",
+        "Body": null,
+        "URL": "https://www.reuters.com/business/logistics-startup-flexport-plans-hiring-spree-double-engineers-2023-2022-11-02/",
+        "Created": 1670000415
+    },
+    {
+        "ID": 33829400,
+        "Owner": "jshchnz",
+        "Type": "job",
+        "Title": "Emerge Tools (YC W21) Is Hiring a Rockstar Senior Mobile Engineer",
+        "Body": null,
+        "URL": "https://www.ycombinator.com/companies/emerge-tools/jobs/5Y3MCJi-senior-mobile-engineer",
+        "Created": 1669982416
+    },
+    {
+        "ID": 33819070,
+        "Owner": "patman_h",
+        "Type": "job",
+        "Title": "Hive (YC S14) is hiring engineers #3, 4 and 5 (100% Remote in Canada)",
+        "Body": null,
+        "URL": "https://angel.co/company/hive/jobs/2435822-senior-full-stack-software-developer",
+        "Created": 1669914070
+    },
+    {
+        "ID": 33815151,
+        "Owner": "jasong",
+        "Type": "job",
+        "Title": "Firezone (YC W22) is hiring engineers to work on open-source network security",
+        "Body": null,
+        "URL": "https://www.ycombinator.com/companies/firezone/jobs/BvqYd3f-founding-engineer",
+        "Created": 1669896050
+    },
+    {
+        "ID": 33807621,
+        "Owner": "Gabriel_h",
+        "Type": "job",
+        "Title": "Meticulous (YC S21) Is Hiring #3 Founding Engineer in London",
+        "Body": "Hey HN,<p>I&#x27;m Gabriel, founder of Meticulous.<p>Our mission is to make the world&#x27;s code safe, performant and reliable. We&#x27;re starting with a tool to catch JavaScript regressions in web applications with zero-effort from developers.<p>How it works: Insert a single line of JavaScript onto your site, and we record thousands of real user sessions. We then replay these sessions on new code to automatically catch bugs before they hit production. You can watch a 60-second demo at meticulous.ai.<p>We are a London-based YC company. Our engineering team previously worked at Dropbox, Opendoor and Google. We just raised $4m, and are backed by some of the best founders and technical leaders in Silicon Valley, including Guillermo Rauch (founder Vercel, author next.js), Jason Warner (CTO GitHub), Scott Belsky (CPO Adobe), Calvin French-Owen (founder Segment), Jared Friedman (YC partner and former CTO of Scribd) and a bunch of other incredible folks.<p>Catching JavaScript regressions is just the start. There is an entire category of products to build on top of replay. This ranges from automatic UI previews to revealing the performance impact of frontend code.<p>We want to change the way the world develops software, and influence software approaches for decades to come.<p>We are seeding a London office and hiring an onsite (few days per week) founding engineer to join our team of four.<p>You will have autonomy in building out this technology, but here are a few problems you might work on:<p>- Build a distributed system to concurrently replay thousands of sessions, such that a developer gets a result in seconds.<p>- Speed up the replay of sessions in a way that retains determinism.<p>- Derive algorithms to detect sessions that cover differing code paths and edge cases, and ignore sessions that are too similar.<p>- Help build out a team of world-class, highly collaborative, software engineers.<p>As founding engineer, you get to shape the company, and build the culture and technology from the ground up.<p>What we look for:<p>In a sentence: Technically brilliant, delightful to work with, combined with a self-awareness and strong desire to improve. We also want to make sure everyone is highly supportive of each other; we win as a team.<p>We&#x27;re currently only looking to bring on folks with senior level skill sets and 5+ years of industry experience. You should have strong web fundamentals and a deep love for software engineering. Maybe you enjoy programming books like Clean Code, Designing Data Intensive Applications, Pragmatic Programmer etc. or enjoy hacking on interesting side projects. You value transparency and candid feedback, and are motivated by a strong desire to become the best engineer you can be.<p>You can read about our values here <a href=\"https:&#x2F;&#x2F;sumptuous-lungfish-609.notion.site&#x2F;Meticulous-values-ab2b90d3324447d58f0720481081c9a6\" rel=\"nofollow\">https:&#x2F;&#x2F;sumptuous-lungfish-609.notion.site&#x2F;Meticulous-values...</a><p>You will be given the space and time to up-level yourself as an engineer in terms of conferences, reading, or whatever you think will be most valuable. We will also set you up with mentorship, if you desire it, from top engineering leaders (folks running 100-engineer organizations at the world&#x27;s leading tech companies).<p>If this sounds interesting, please reach out to me at gabe [at] meticulous [dot] ai with “HN” in the subject line and 2-3 sentences about what you find interesting about Meticulous and your resume&#x2F;LinkedIn&#x2F;GitHub.",
+        "URL": null,
+        "Created": 1669842082
+    },
+    {
+        "ID": 33803602,
+        "Owner": "yeldarb",
+        "Type": "job",
+        "Title": "Roboflow (YC S20) is hiring engineers to democratize computer vision",
+        "Body": null,
+        "URL": "https://roboflow.com/careers?ref=ychiring",
+        "Created": 1669827603
+    },
+    {
+        "ID": 33800886,
+        "Owner": "AnhTho_FR",
+        "Type": "job",
+        "Title": "Lago (YC S21) Is Hiring",
+        "Body": null,
+        "URL": "https://www.ycombinator.com/companies/lago/jobs/LuTb5d5-founding-sales-manager",
+        "Created": 1669817051
+    },
+    {
+        "ID": 33793237,
+        "Owner": "justicz",
+        "Type": "job",
+        "Title": "Charge Robotics (YC S21) is hiring meches to build robots that build solar farms",
+        "Body": null,
+        "URL": "https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer",
+        "Created": 1669755646
+    },
+    {
+        "ID": 33790099,
+        "Owner": "jaz46",
+        "Type": "job",
+        "Title": "Pachyderm (YC W15) is hiring sales engineers and solutions architects",
+        "Body": null,
+        "URL": "https://www.pachyderm.com/careers/",
+        "Created": 1669741265
+    },
+    {
+        "ID": 33780352,
+        "Owner": "danlenton",
+        "Type": "job",
+        "Title": "Ivy (YC W23) Is Hiring Engineers to Unify ML",
+        "Body": null,
+        "URL": "https://www.ycombinator.com/companies/ivy/jobs",
+        "Created": 1669672335
+    },
+    {
+        "ID": 33772566,
+        "Owner": "the_economist",
+        "Type": "job",
+        "Title": "BuildZoom (better way to build custom homes) Is hiring a Growth Associate",
+        "Body": null,
+        "URL": "https://jobs.lever.co/buildzoom",
+        "Created": 1669637049
+    },
+    {
+        "ID": 33766912,
+        "Owner": "gdeglin",
+        "Type": "job",
+        "Title": "OneSignal (YC S11) Is Hiring a Head of Developer Relations",
+        "Body": null,
+        "URL": "https://onesignal.com/careers/b1924054-503d-4816-9314-7e4622abdfd7",
+        "Created": 1669582883
+    },
+    {
+        "ID": 33751958,
+        "Owner": "tasn",
+        "Type": "job",
+        "Title": "Svix (YC W21) is hiring (remote) – Enterprise ready webhook service",
+        "Body": null,
+        "URL": "https://www.svix.com/careers/",
+        "Created": 1669464083
+    },
+    {
+        "ID": 33728529,
+        "Owner": "kanjun",
+        "Type": "job",
+        "Title": "Generally Intelligent (YC S17) Is Hiring Simulation Engineers",
+        "Body": "Generally Intelligent is an AI research company working directly on building human-level general machine intelligence that can learn naturally in the way humans do. Our mission is to understand the fundamentals of learning and build safe, humane machine intelligence. Here are our open roles:<p>Machine Learning Engineer (Remote, Contract or Full-time): <a href=\"https:&#x2F;&#x2F;jobs.lever.co&#x2F;generallyintelligent&#x2F;9411e2ec-502a-403f-a39a-0d44c676b6af?lever-origin=applied&amp;lever-source%5B%5D=Y%20Combinator\" rel=\"nofollow\">https:&#x2F;&#x2F;jobs.lever.co&#x2F;generallyintelligent&#x2F;9411e2ec-502a-403...</a><p>Research Scientist (SF, Full-time): <a href=\"https:&#x2F;&#x2F;jobs.lever.co&#x2F;generallyintelligent&#x2F;6c25a25c-35ec-4d7b-8d7e-40e9c4c85fba?lever-origin=applied&amp;lever-source%5B%5D=Y%20Combinator\" rel=\"nofollow\">https:&#x2F;&#x2F;jobs.lever.co&#x2F;generallyintelligent&#x2F;6c25a25c-35ec-4d7...</a><p>Machine Learning Research Engineer (SF, Full-time): <a href=\"https:&#x2F;&#x2F;jobs.lever.co&#x2F;generallyintelligent&#x2F;c2f4a435-1eef-489a-9972-fba95e4a0296?lever-origin=applied&amp;lever-source%5B%5D=Y%20Combinator\" rel=\"nofollow\">https:&#x2F;&#x2F;jobs.lever.co&#x2F;generallyintelligent&#x2F;c2f4a435-1eef-489...</a><p>Systems Engineer (Remote or SF, Full-time): <a href=\"https:&#x2F;&#x2F;jobs.lever.co&#x2F;generallyintelligent&#x2F;7afede07-8f22-4c49-b247-19e1a0ca6953?lever-origin=applied&amp;lever-source%5B%5D=Y%20Combinator\" rel=\"nofollow\">https:&#x2F;&#x2F;jobs.lever.co&#x2F;generallyintelligent&#x2F;7afede07-8f22-4c4...</a><p>Simulation Engineer (Remote or SF, Full-time): <a href=\"https:&#x2F;&#x2F;jobs.lever.co&#x2F;generallyintelligent&#x2F;4658ffcb-f3ed-4906-8b0b-0f2517efd57e?lever-origin=applied&amp;lever-source%5B%5D=Y%20Combinator\" rel=\"nofollow\">https:&#x2F;&#x2F;jobs.lever.co&#x2F;generallyintelligent&#x2F;4658ffcb-f3ed-490...</a><p>AI Policy &amp; Safety Researcher (SF, Full-time):\n<a href=\"https:&#x2F;&#x2F;jobs.lever.co&#x2F;generallyintelligent&#x2F;5b2741ab-7534-42c8-992e-487b35590adc?lever-origin=applied&amp;lever-source%5B%5D=Y%20Combinator\" rel=\"nofollow\">https:&#x2F;&#x2F;jobs.lever.co&#x2F;generallyintelligent&#x2F;5b2741ab-7534-42c...</a><p>Engineering Manager (SF, Full-time):\n<a href=\"https:&#x2F;&#x2F;jobs.lever.co&#x2F;generallyintelligent&#x2F;75fac008-22e5-49ab-9f4e-a4c459b52b41?lever-origin=applied&amp;lever-source%5B%5D=Y%20Combinator\" rel=\"nofollow\">https:&#x2F;&#x2F;jobs.lever.co&#x2F;generallyintelligent&#x2F;75fac008-22e5-49a...</a><p>Independent Researcher (Remote):\n<a href=\"https:&#x2F;&#x2F;jobs.lever.co&#x2F;generallyintelligent&#x2F;3d70d032-22a3-435a-8032-1551f17f650e?lever-origin=applied&amp;lever-source%5B%5D=Y%20Combinator\" rel=\"nofollow\">https:&#x2F;&#x2F;jobs.lever.co&#x2F;generallyintelligent&#x2F;3d70d032-22a3-435...</a><p>Infrastructure Engineer (Remote or SF, Full-time):\n<a href=\"https:&#x2F;&#x2F;jobs.lever.co&#x2F;generallyintelligent&#x2F;e66a55a3-a117-406c-9b07-8ba055047cea?lever-origin=applied&amp;lever-source%5B%5D=Y%20Combinator\" rel=\"nofollow\">https:&#x2F;&#x2F;jobs.lever.co&#x2F;generallyintelligent&#x2F;e66a55a3-a117-406...</a><p>Open Source Tech Lead (SF, Full-time):\n<a href=\"https:&#x2F;&#x2F;jobs.lever.co&#x2F;generallyintelligent&#x2F;9768bb0b-29c6-4188-a4b0-b741f4f92f75?lever-origin=applied&amp;lever-source%5B%5D=Y%20Combinator\" rel=\"nofollow\">https:&#x2F;&#x2F;jobs.lever.co&#x2F;generallyintelligent&#x2F;9768bb0b-29c6-418...</a><p>Senior Software Engineer (Remote or SF, Full-time):\n<a href=\"https:&#x2F;&#x2F;jobs.lever.co&#x2F;generallyintelligent&#x2F;38a93a78-fb8d-4614-bb12-b6277a7f874e?lever-origin=applied&amp;lever-source%5B%5D=Y%20Combinator\" rel=\"nofollow\">https:&#x2F;&#x2F;jobs.lever.co&#x2F;generallyintelligent&#x2F;38a93a78-fb8d-461...</a><p>Theory Engineer:\n<a href=\"https:&#x2F;&#x2F;jobs.lever.co&#x2F;generallyintelligent&#x2F;63499488-91b1-4154-956e-26551d7ac500?lever-origin=applied&amp;lever-source%5B%5D=Y%20Combinator\" rel=\"nofollow\">https:&#x2F;&#x2F;jobs.lever.co&#x2F;generallyintelligent&#x2F;63499488-91b1-415...</a>",
+        "URL": null,
+        "Created": 1669273614
+    },
+    {
+        "ID": 33721693,
+        "Owner": "gkoberger",
+        "Type": "job",
+        "Title": "ReadMe (YC W15) is hiring a product manager who loves APIs",
+        "Body": null,
+        "URL": "https://readme.com/careers#product-lead",
+        "Created": 1669222896
+    },
+    {
+        "ID": 33878209,
+        "Owner": "taauji",
+        "Type": "story",
+        "Title": "Ask HN: How is the job search coming along for people who got laid off?",
+        "Body": "I am assuming the market must be saturated with people seeking tech jobs. Is it difficult to get interviews? How have you been since you got laid off?",
+        "URL": null,
+        "Created": 1670326316
+    },
+    {
+        "ID": 33881857,
+        "Owner": "FactolSarin",
+        "Type": "story",
+        "Title": "Tell HN: My child's first program",
+        "Body": "Last night, I introduced my kid to programming. We&#x27;d done some stuff with Mindstorms before, but she never really caught the bug for it. But for some reason, last night when I showed her some simple Python scripting to solve math problems and write to the console, she was enthralled.<p>After guiding her through a few things, she took the laptop off for a while and then came back with her first program, giggling like a maniac<p><pre><code>    you=&#x27;WOW!!!&#x27;\n    fart=&#x27;So many poops!&#x27;\n    print(you,fart)\n</code></pre>\nI&#x27;m pretty proud :D",
+        "URL": null,
+        "Created": 1670341394
+    },
+    {
+        "ID": 33879083,
+        "Owner": "jarl-ragnar",
+        "Type": "story",
+        "Title": "Ask HN: Software architects – what’s your typical day look like?",
+        "Body": "A question for anyone out there working as a software architect (especially microservice architectures). What’s your typical day comprise of? Where do you find yourself focusing your time? What resources have you found to be most useful?",
+        "URL": null,
+        "Created": 1670332253
+    },
+    {
+        "ID": 33884202,
+        "Owner": "throwaway1183",
+        "Type": "story",
+        "Title": "Ask HN: How do you cope with existential threat regarding career?",
+        "Body": "With the recent development in AI, for example stable diffusion, my hobby as an artist has been almost non-existent. No matter how much time I spend on my art, I will not be able to compete with AI models. These things are not going to slow down. Often times, I feel like the process of using AI-generated art and augmenting it with my own projects is more productive than creating my own art from scratch.<p>Adding ChatGPT to the equation, the threat has doubled. It has just started, yet it can do remarkable things. This is like the AlexNet moment in the field of computer vision. There was a time before AlexNet. Now, most research and implementation involved using deep learning in one form or another. I have been in this field for a long time, but I don&#x27;t have any substantial work to show for it. I feel like my effort wouldn&#x27;t make a difference. As long as I am improving, these models are able to improve at a faster rate. Of course, I cannot compete with the top researchers at these big labs. So whatever I do will be insignificant.<p>I have been trying to change my field from AI to something else, but it feels like that would be a wrong decision. However, just being in this field would make the problem even worse because I would never be as competent as the quality demands. The skills that I learn from AI quickly become outdated compared to other skills like management and software engineering. Whenever you involve humans in the equation, you have to learn different things surrounding it. But if you are just doing AI research for a long time, all you get is the ability to read papers and perhaps implement them. It&#x27;s always a rat race where you are constantly chasing something new. I feel that doing a regular software engineering job would be much easier and exciting because it&#x27;s just a job and you can have other hobbies. But with AI, you have to read relevant papers on your spare time just to keep up. The innovation and progress are so fast that it&#x27;s almost impossible to catch up.<p>I feel like my career has ended before it even started.",
+        "URL": null,
+        "Created": 1670349156
+    },
+    {
+        "ID": 33886751,
+        "Owner": "jonas_kgomo",
+        "Type": "story",
+        "Title": "Ask HN: How would you approach an Intelligence Agency to join them",
+        "Body": "Suppose you want to join an intelligence agency, either in UK, US, Africa or otherwise. How would one approach this, are there specific events you need to go to, websites you need to apply to, people you might want to speak to. This should be seen as a diplomatic role in aiding two countries(in most cases you have to be a citizen in respective countries). Has anyone ever successfully interviewed or been approached by some intel?",
+        "URL": null,
+        "Created": 1670359465
+    },
+    {
+        "ID": 33877933,
+        "Owner": "ArielYang0102",
+        "Type": "story",
+        "Title": "Ask HN: Can anyone share cases study of successful SaaS getting into the market?",
+        "Body": "Hi,<p>The background is we are a startup working on IoT development framework and we&#x27;ve just started to launch our product. The result of current advertising and promotion in the North American market is not up to much so far.<p>So anyone can recommend some worth-learning cases of SaaS products getting into North American market? (Actually we are doing PaaS stuff but considering SaaS is more common and easier to be as a reference)<p>Any guidance would be greatly appreciated!<p>Thanks!",
+        "URL": null,
+        "Created": 1670323942
+    },
+    {
+        "ID": 33876690,
+        "Owner": "yogrish",
+        "Type": "story",
+        "Title": "Ask HN: How to overcome stage fear / social anxiety",
+        "Body": "I am in a Techno managerial leadership role in my organization. I am facing issue when facing large audience. I am good at giving tech talks to multiple audience. May be initial anxiety will be there while giving tech talks, but once I start, I am really good in making impactful tech talks&#x2F;presentations. Also general topics, I can talk infornt of my 75 member team.<p>But when it comes to  impromptu talks, giving opinions or asking just questions in big forums involving senior leaders &#x2F; peers or other team members, I generally fumble. My body language doesn&#x27;t show confidence, try to mince words etc.<p>I step back because i feel i am being judged, or I make wrong statement etc.<p>Any one who has overcome this fear and were able to improve Body language showing confidence amidst many people (esp. when your managers are present). Please let me know if you have any hacks in overcoming this situation. This will take me leaps forward in my career. Thanks for your support, as always.",
+        "URL": null,
+        "Created": 1670310018
+    },
+    {
+        "ID": 33885777,
+        "Owner": "snicky",
+        "Type": "story",
+        "Title": "Ask HN: Toys or materials to teach 3 year olds “programming”?",
+        "Body": "Hi, I&#x27;m looking for some fun materials that would help my boys to develop interest in basic concepts of programming like procedures, types or loops. I know some of you will probably tell me it&#x27;s too early and that at this age it&#x27;s all about building relations and whatnot, but they already seem to be way smarter than I expected them to be so why not point them in a new direction? Anyway, any ideas are appreciated :)",
+        "URL": null,
+        "Created": 1670355312
+    },
+    {
+        "ID": 33885526,
+        "Owner": "bardian",
+        "Type": "story",
+        "Title": "Ask HN: How to switch from SE to consulting on process and quality improvement?",
+        "Body": "I&#x27;ve been writing software for over 10 years now, and I&#x27;m 11 months into a break from work.<p>I&#x27;ve worked at several startups and larger companies (in Canada and Europe), burnt out a few times, and always noticed how much waste and suffering most organizations create.<p>This is usually because of a poor process, poor code quality, misaligned incentives, misunderstanding between functions... It&#x27;s a long list. But the result is always large amounts of waste (time, energy) and suffering (stress, burnout).<p>I&#x27;d like to fix this. I think I&#x27;d be happier helping teams and companies improve on these things so that the product is better AND costs less to make while also improving overall working conditions.<p>I don&#x27;t believe in Agile(tm) or SAFe. I hated these silly little games and &quot;ceremonies&quot; that wasted so much valuable time while achieving nothing; so I don&#x27;t think becoming a Scrum Master(tm) is for me. I&#x27;d also like to put my technical knowledge to use, but I don&#x27;t want to be writing software anymore.<p>I&#x27;m still figuring out what that role&#x2F;service is called or which companies would be interested in it. I suspect most place aren&#x27;t looking to fix the status quo.<p>Is anyone working in this space? How did you get started, what kind of companies do you work with? And how is this role called?",
+        "URL": null,
+        "Created": 1670354328
+    },
+    {
+        "ID": 33885016,
+        "Owner": "snoopy_telex",
+        "Type": "story",
+        "Title": "Ask HN: What do you use to backup email?",
+        "Body": "Howdy HN,<p>I&#x27;m realizing that I don&#x27;t have a good story for backing up my email. I rely on my provider, and with the recent rackspace outages, I want to start backing up my emails locally.<p>How do you folks handle backing up your email?",
+        "URL": null,
+        "Created": 1670352247
+    },
+    {
+        "ID": 33880365,
+        "Owner": "afigkka",
+        "Type": "story",
+        "Title": "Ask HN: How does your company plan work?",
+        "Body": "My original approach to this was work doesn&#x27;t needed to be planned, it needs to be done, BUT in an org approaching 1000 people who need to be kept busy shuffling papers some amount planning to attempt to coordinate people is needed.<p>What I would like is project driven teams, who form to solve a problem, deliver a solution, then disband. This doesn&#x27;t support empire building though.<p>Current situation at my employer which is starting to transition to a more matrixed organisation:<p>Ahead of each quarter the Product Development department opens the window for submitting new objectives<p>These should be tied to the company strategy and are mostly driven by the Product Management function<p>Each objective will detail the outcomes, teams required and a guess at how many quarters it will take<p>Then all the teams that are suspected to be involved will consult the objective and estimate how much of their time is needed to deliver the requirements that aren&#x27;t yet known<p>Each team then aggregates this in a rough % of their capacity of the projected quarter (like Objective Pickled Giraffe : Team Ostrich 50% Capacity in Q1 required)<p>Then the submission window closes and all the objectives go to the exec team who pick which ones will be done and which ones need more info to make a decision.<p>Then we kick off the quarter and start work on the objectives.<p>This then doesn&#x27;t fit with any other part of the company who have their own planning cycles and then we fight to pull people in when needed. Hence why we&#x27;re becoming a &#x27;matrixed org&#x27; to solve this.",
+        "URL": null,
+        "Created": 1670336864
+    },
+    {
+        "ID": 33875660,
+        "Owner": "Jeremy1026",
+        "Type": "story",
+        "Title": "Ask HN: I have education budget to use before year end, how should I use it?",
+        "Body": "I have about $1,200 that I can use for any education purpose. Buying books. Registering for training classes, certifications, conferences. Even things not directly related to my job as a software engineer like subscriptions to Brilliant or Skillshare can go towards the budget.<p>What are some educational things&#x2F;tools that you&#x27;ve found useful recently?",
+        "URL": null,
+        "Created": 1670298417
+    },
+    {
+        "ID": 33882545,
+        "Owner": "vinarun",
+        "Type": "story",
+        "Title": "Ask HN: Have you ever set up two-way data syncs? What did you use?",
+        "Body": "Hey HN, asking for help from my fellow data engineering community! Between what two systems have you ever needed a two-way data sync?<p>For example, I’ve seen some devs wanting it to connect databases to tools like Airtable. But are there other tools &#x2F; use cases that you’ve seen? I’ve heard of Mulesoft and Piesync but those seem overly expensive for these use cases",
+        "URL": null,
+        "Created": 1670343744
+    },
+    {
+        "ID": 33879571,
+        "Owner": "frereubu",
+        "Type": "story",
+        "Title": "Tell HN: Hover are having DNS issues",
+        "Body": "We have a few domains with them that are experiencing intermittent DNS issues. Their status page isn&#x27;t showing anything (as of 13:44 GMT) - http:&#x2F;&#x2F;hoverstatus.com&#x2F; - but a support person has confirmed that they are &quot;currently experiencing difficulties with our nameservers and DNS records propagating&quot;.",
+        "URL": null,
+        "Created": 1670334313
+    },
+    {
+        "ID": 33882953,
+        "Owner": "warrenm",
+        "Type": "story",
+        "Title": "Ask HN: How Federatable is the Fediverse?",
+        "Body": "How sturdy is federation <i>actually</i> in the fediverse?<p>At what point does it become practically impossible to federate a new instance into the existing verse?<p>If it&#x27;s &quot;never&quot;, how do you ensure that you&#x27;re federated &quot;enough&quot; to be findable and&#x2F;or to find what you want to?<p>Is it like adding a node&#x2F;network&#x2F;PoP to the internet - so long as you&#x27;re connecting to something connected, you&#x27;re now connected (an &quot;all roads lead to Rome&quot; scenario)?<p>Or is there a minimum number of connections you need to make to be considered &quot;federated&quot;?<p>Do enclaves or isolated pockets of federation exist (maybe akin to galaxies inside the universe - you know the others exist, maybe even can see them from a distance, but cannot communicate with them)?<p>Maybe I don&#x27;t understand the federation model well enough (very possible&#x2F;likely), and maybe this question doesn&#x27;t make sense to someone well-versed in the topic - if so, please explain what I&#x27;m missing so I understand better :)<p>---------<p>(Originally started as a comment on another post - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=33834361",
+        "URL": null,
+        "Created": 1670345049
+    },
+    {
+        "ID": 33869277,
+        "Owner": "TurkishPoptart",
+        "Type": "story",
+        "Title": "Ask HN: Can you recommend a book to learn basic electrical concepts/engineering?",
+        "Body": "I think title says it all. Something like CODE but for electricity? Thanks",
+        "URL": null,
+        "Created": 1670263731
+    },
+    {
+        "ID": 33882438,
+        "Owner": "imranq",
+        "Type": "story",
+        "Title": "Ask HN: When will ChatGPT become open?",
+        "Body": "Every third post I read in HN is about chatGPT and how much fun and creativity people are getting out of it. However it&#x27;s unlikely OpenAI will just release the model like they did with whisper due to the size and commercial constraints. To adapt this technology to different industries like education &#x2F; healthcare, it needs to be open to experimentation and tinkering.<p>So I was wondering, when will chatGPT have it&#x27;s stable diffusion moment? Is it possible for any decent machine to run these kinds of models?",
+        "URL": null,
+        "Created": 1670343405
+    },
+    {
+        "ID": 33859823,
+        "Owner": "gardenhedge",
+        "Type": "story",
+        "Title": "Ask HN: Can you recommend me a book to (re)learn math?",
+        "Body": "I did math in high school and in college during a computer science degree but I feel like I don&#x27;t know much math now at all. I wasn&#x27;t a prodigy but I liked learning it in school.<p>Is there a book that would be good to work through that is aimed at someone looking to get back into math?",
+        "URL": null,
+        "Created": 1670200632
+    },
+    {
+        "ID": 33880024,
+        "Owner": "aliqot",
+        "Type": "story",
+        "Title": "Tell HN: Tired of Hearing about ChatGPT",
+        "Body": "Im glad we&#x27;re done talking about stable diffusion, but it kinda sucks that we&#x27;re shoving ChatGPT into everything now.",
+        "URL": null,
+        "Created": 1670335896
+    },
+    {
+        "ID": 33863749,
+        "Owner": "rich_sasha",
+        "Type": "story",
+        "Title": "Discuss HN: Software Careers Post ChatGPT+",
+        "Body": "We&#x27;ve all seen it - ChatGPT genuinely solving coding puzzles. Clearly, <i>clearly</i>, that&#x27;s a long way from building MVP products, designing new programming languages or writing &quot;Hello World&quot; in Haskell. But it&#x27;s also a long way since even GPT-3, never mind status quo 10 years ago. It would be cool to discuss what a future looks like where &quot;human operators&quot; of programming are competing against a machine. I don&#x27;t think it is imminent, but equally I think it&#x27;s less imminent than I did a week ago.<p>Some threads that come to mind:<p>- Are these language models better than current offshore outsourced coders? These can code too, sort of, and yet they don&#x27;t threaten the software industry (much).<p>- What would SEs do if any layperson can say &quot;hey AI slave, write me a program that...&quot;? What would we, literally, do? Are there other, undersaturated professions we&#x27;d go into, where analytical thinking is required? Could we, ironically, wake up in a future where thinking skills are taken over by machine, and it&#x27;s other skills - visual, physical labour, fine motor skills - that remain unautomated?<p>- Are we even the first ones in the firing line? Clearly, for now AI progress is mostly in text-based professions; we haven&#x27;t seen a GPT equivalent for video comprehension, for example. Are lawyers at risk? Writers?<p>- What can SEs do, realistically, to protect themselves? Putting the genie back in the bottle is not, as discussed many times in other threads, an option.<p>- Or is it all bogus (with justification), and we&#x27;re fine?<p>No doubt ChatGPT will chip in...",
+        "URL": null,
+        "Created": 1670236359
+    },
+    {
+        "ID": 33882497,
+        "Owner": "kirillzubovsky",
+        "Type": "story",
+        "Title": "Show HN: Domain Name Search with AI",
+        "Body": "In my exploration of OpenAI, I just created a domain-name search that takes business description as an input, and generates interesting domain names for it. It then uses DNSimple API to check if .com is available.<p>In my view it is a much easier way to find a suitable domain, as the AI thinks of a much large pool of possible names than my own brain. SmartyNames found its own name, using the tool itself.<p>Hope you enjoy it! <a href=\"https:&#x2F;&#x2F;smartynames.com&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;smartynames.com&#x2F;</a>",
+        "URL": null,
+        "Created": 1670343602
+    },
+    {
+        "ID": 33884424,
+        "Owner": "varunsharma07",
+        "Type": "story",
+        "Title": "Show HN: Publish from GitHub Actions using multi-factor authentication",
+        "Body": "The backstory about this GitHub Action:<p>I discussed with an open-source maintainer why they publish npm packages from their local machine and do not use CI&#x2F;CD pipelines.<p>They said publishing should require human intervention and want to continue using multi-factor authentication to publish to the npm registry.<p>This led to building the wait-for-secrets GitHub Action. It prints a URL in the build log and waits for secrets to be entered using a browser. Once entered, the workflow continues, and secrets can be used in future steps.<p>The latest release of &quot;eslint-plugin-react&quot; to the npm registry used a one-time password (OTP) from a GitHub Actions workflow!\n<a href=\"https:&#x2F;&#x2F;github.com&#x2F;jsx-eslint&#x2F;eslint-plugin-react&#x2F;actions&#x2F;runs&#x2F;3498968497&#x2F;jobs&#x2F;5860126389#step:9:1\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;jsx-eslint&#x2F;eslint-plugin-react&#x2F;actions&#x2F;ru...</a>",
+        "URL": "https://github.com/step-security/wait-for-secrets",
+        "Created": 1670349900
+    },
+    {
+        "ID": 33885676,
+        "Owner": "varunkmohan",
+        "Type": "story",
+        "Title": "Show HN: Codeium – a free, ultrafast AI codegen extension",
+        "Body": "I&#x27;m Varun, CEO of Exafunction, and we just released Codeium to open up access of generative AI to all developers for free. In the spirit of Show HN, we created a playground version for anyone to try this tech in the browser (click Try in Browser)!<p>We have built scalable, low-latency ML infra for many top AI companies in the past, and we are excited to leverage that tech into a product that we, as developers, would love. We hope that you do too, and we would appreciate any feedback that this community has for us!",
+        "URL": "https://www.codeium.com/",
+        "Created": 1670354877
+    },
+    {
+        "ID": 33878873,
+        "Owner": "juliushuijnk",
+        "Type": "story",
+        "Title": "Show HN: TinyUX – Grid based low-fi wireframing on your mobile phone",
+        "Body": "You tap icons to create a wireframe, or do some visual brainstorming. Then export the image to share on Slack, Gitlab, etc.<p>I wanted to work on neural net that interprets an imported image of a wireframe, to then manipulate it inside an app. Figured it would be best to first build the wireframing app. So I created TinyUX.<p>It&#x27;s released as quickly as possible this influenced some choices:<p>- While created in React Native, it&#x27;s Android only. \n- It&#x27;s paid only (~$5). While freemium might make more sense, this was quicker to release, since in-app-purchases in RN is not trivial. First app I created that&#x27;s not free, so that&#x27;s an experiment too. \n- There are no online features, all is stored on the device.<p>Looking to validate with UX designers, but all feedback is welcome.",
+        "URL": "https://www.tinyux.app/",
+        "Created": 1670331232
+    },
+    {
+        "ID": 33855453,
+        "Owner": "mmastrac",
+        "Type": "story",
+        "Title": "Show HN: Hacking Bluetooth to brew coffee in GitHub actions",
+        "Body": "This is my adventure reverse engineering a De&#x27;Longhi coffeemaker&#x27;s Bluetooth-Low-Energy-based protocol, writing a rust CLI for it, and hooking it up to GitHub actions to let us brew from either the browser or the GitHub app by filing issues (all the coffee are defined in issue templates).",
+        "URL": "https://grack.com/blog/2022/12/01/hacking-bluetooth-to-brew-coffee-on-github-actions-part-1/",
+        "Created": 1670173879
+    },
+    {
+        "ID": 33884297,
+        "Owner": "sergiocampama",
+        "Type": "story",
+        "Title": "Show HN: Copilot Money launched their macOS app",
+        "Body": null,
+        "URL": "https://copilot.money",
+        "Created": 1670349484
+    },
+    {
+        "ID": 33853773,
+        "Owner": "wonderfuly",
+        "Type": "story",
+        "Title": "Show HN: Chrome extension to display ChatGPT response besides Google Search",
+        "Body": null,
+        "URL": "https://github.com/wong2/chat-gpt-google-extension",
+        "Created": 1670162505
+    },
+    {
+        "ID": 33879247,
+        "Owner": "snshn",
+        "Type": "story",
+        "Title": "Show HN: Keep an eye on your domains from terminal",
+        "Body": null,
+        "URL": "https://github.com/snshn/knock-knock",
+        "Created": 1670333011
+    },
+    {
+        "ID": 33833836,
+        "Owner": "tpetry",
+        "Type": "story",
+        "Title": "Show HN: I wrote a free eBook about many lesser-known/secret database tricks",
+        "Body": null,
+        "URL": "https://sqlfordevs.com/ebook",
+        "Created": 1670002990
+    },
+    {
+        "ID": 33869231,
+        "Owner": "your_challenger",
+        "Type": "story",
+        "Title": "Show HN: Chrome extension to summarize blogs and articles using ChatGPT",
+        "Body": null,
+        "URL": "https://github.com/clmnin/summarize.site",
+        "Created": 1670263547
+    },
+    {
+        "ID": 33861244,
+        "Owner": "armini",
+        "Type": "story",
+        "Title": "Show HN: Tenebra game PC port of popular Commodore 64 game",
+        "Body": "Guide the hapless protagonist to the exit, while keeping in mind that he is afraid of darkness and refuses to walk in the dark areas.",
+        "URL": "https://h4plo.itch.io/tenebra-pc",
+        "Created": 1670212236
+    },
+    {
+        "ID": 33877416,
+        "Owner": "docuru",
+        "Type": "story",
+        "Title": "Show HN: Edupops (Antler VN2) – Learn with Short Videos",
+        "Body": null,
+        "URL": "https://edupops.com",
+        "Created": 1670318377
+    },
+    {
+        "ID": 33850477,
+        "Owner": "algon",
+        "Type": "story",
+        "Title": "Show HN: Using Vim as an input method editor (IME) for X11 apps",
+        "Body": "As a Vim user, I often use Vim to write some text and then copy &amp; paste it into another text field of GUI apps (e.g. browsers, chat apps, etc.),\nbecause almost all of these text fields provide only very basic editing functions.<p>A while ago, I came up with an idea: what if we could use Vim as an IME?<p>Ordinary IMEs are used to input some non-English characters, but the essential functions of IME are\n1) receiving a keyboard sequence\n2) process the key sequence and outputting a text<p>These functions are the same as text editor&#x27;s.\nSo I thought implementing an IME that can be used with Vim keybindings could be a good solution for the above problem.<p>After that I learned mechanisms of IME for Linux desktop and tried to develop an experimental IME.",
+        "URL": "https://github.com/algon-320/vime",
+        "Created": 1670126598
+    },
+    {
+        "ID": 33860808,
+        "Owner": "lovasoa",
+        "Type": "story",
+        "Title": "Show HN: Controversial quiz game generated by ChatGPT",
+        "Body": null,
+        "URL": "https://github.com/lovasoa/Sensitive-Topic-History-Quiz",
+        "Created": 1670208244
+    },
+    {
+        "ID": 33876826,
+        "Owner": "javierluraschi",
+        "Type": "story",
+        "Title": "Show HN: Will data apps into existence with GPT-3",
+        "Body": null,
+        "URL": "https://hal9.com/",
+        "Created": 1670311514
+    },
+    {
+        "ID": 33852572,
+        "Owner": "jiayuanzhang",
+        "Type": "story",
+        "Title": "Show HN: GPTLang, a New Programming Language Implemented by ChatGPT",
+        "Body": null,
+        "URL": "https://github.com/forrestchang/gptlang",
+        "Created": 1670152617
+    },
+    {
+        "ID": 33851102,
+        "Owner": "ylankgz",
+        "Type": "story",
+        "Title": "Show HN: GPT-3 powered service thats helps you send more humane emails",
+        "Body": null,
+        "URL": "https://remarkai.in",
+        "Created": 1670134077
+    },
+    {
+        "ID": 33834847,
+        "Owner": "andersonmvd",
+        "Type": "story",
+        "Title": "Show HN: Open-source clones of popular sites (Airbnb, AMZ, Instagram, etc.)",
+        "Body": null,
+        "URL": "https://github.com/GorvGoyl/Clone-Wars",
+        "Created": 1670006611
+    },
+    {
+        "ID": 33853830,
+        "Owner": "nandreev",
+        "Type": "story",
+        "Title": "Show HN: I recreated Coursera with 150 free YouTube tutorials",
+        "Body": null,
+        "URL": "https://hourups.com/",
+        "Created": 1670162996
+    },
+    {
+        "ID": 33845887,
+        "Owner": "orf",
+        "Type": "story",
+        "Title": "Show HN: A tool like jq, but for parsing HTML",
+        "Body": null,
+        "URL": "https://github.com/orf/hq",
+        "Created": 1670091879
+    }
+]
